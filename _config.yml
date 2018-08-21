@@ -23,8 +23,8 @@ description: The Association of Computer-Aided Architectural Design Research in 
 
 # List of links in the navigation bar
 navbar-links:
-  Organisation: "about"
-#    - About: "about"
+  Organisation:
+    - About: "about"
     - Awards: "awards"
     - Charter: "charter"
     - Officers: "officers"
