@@ -3,7 +3,7 @@ layout: page
 title: Officers
 ---
 
-| EXCO Officers | Current term: 2018-2020 |
+| EXCO Members | Current term: 2018-2020 |
 |----|----|
 | President | Christiane Herr (Xi'an Jiaotong-Liverpool University, China) |
 | Secretary | Walaiporn Nakapan (Rangsit University, Thailand) |
