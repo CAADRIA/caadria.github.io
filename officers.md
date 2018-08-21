@@ -6,6 +6,7 @@ title: Officers
 #### Current term: 2018-2020
 
 | President | Christiane Herr (Xi'an Jiaotong-Liverpool University, China) |
+|----|----|
 | Secretary | Walaiporn Nakapan (Rangsit University, Thailand) |
 | Treasurer | Wei Xin Huang (Tsinghua University, China) |
 | Membership Officer | Tian Tian Lo (Victoria University of Wellington, New Zealand) |
@@ -14,7 +15,6 @@ title: Officers
 | Organization Officer | TBC |
 | Publication Officer | TBC |
 | Web Master | TBC |
-|----
 
 #### CAADRIA Committees
   * TBC
