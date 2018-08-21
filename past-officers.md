@@ -3,9 +3,7 @@ layout: page
 title: Past Officers
 ---
 
-# Past Officers
-
-## Presidents
+### Presidents
 * Thomas Kvan
 * Jin-Yeu Tsou
 * Aleppo Yu-Tung Liu
@@ -16,7 +14,7 @@ title: Past Officers
 * Teng-Wen Chang
 * Hyunsoo Lee
 
-## Secretaries
+### Secretaries
 * Milton Tan
 * Benny Chow
 * Marc Aurel Schnabel
@@ -26,7 +24,7 @@ title: Past Officers
 * Sambit Datta
 * Ning Gu
 
-## Treasurers
+### Treasurers
 * Mao-Lin Chiu
 * Mitsuo Morozumi
 * Beng Kiang Tan
@@ -35,7 +33,7 @@ title: Past Officers
 * Teng-Wen Chang
 * Patrick Janssen
 
-## Membership officers
+### Membership officers
 * John Gero
 * Mary Lou Maher
 * Marc Aurel Schnabel
@@ -46,9 +44,9 @@ title: Past Officers
 * Christiane M. Herr
 * Suleiman Alhadidi
 
-## Conference Committee Chair/members
+### Conference Committee Chair/members
 
-2017-18
+#### 2017-18
 * Award/Scholarship Committee Chair: Tomohiro Fukuda
   * Young CAADRIA Award Committee: Hyunsoo Lee, Tomohiro Fukuda, Weiguo Xu, Rudi Stouffs
   * Best Paper Award Committee: Tomohiro Fukuda, Abel Tablada de la Torre, Jin Kook Lee
@@ -58,21 +56,21 @@ title: Past Officers
 * Sasada Award Committee: Tom Kvan, Yu-Tung Liu, Atsuko Kaga (sasada@caadria.org)
 * IJAC Editor: TBC
 
-2016-17
+#### 2016-17
 * Award/Scholarship (Young CAADRIA, Best Paper, Best Presentation and SASADA award) Committee: Tomohiro Fukuda (Chair)
 * Paper Selection Committee: Patrick Janssen (Chair), Paul Loh, Aleksandra Raonic, Marc A. Schnabel
 * PG Students Consortium: Andrew Li (Chair)
 * Sasada Award Committee: Tom Kvan, Yu-Tung Liu, Atsuko Kaga (sasada@caadria.org)
 * IJAC Editor: Sheng-Fen Nik Chien, Taiwan
 
-2015-16
+#### 2015-16
 * Award/Scholarship (Young CAADRIA, Best Paper, Best Presentation and SASADA award) Committee: Tomohiro Fukuda (Chair)
 * Paper Selection Committee: Nik Sheng-Fen Chien (Chair), Seungyeon Choo, Mark Aurel Schnabel, Walaiporn Nakapan, Mi Jeong Kim, Stanislav Roudavsk
 * PG Students Consortium: Andrew Li (Chair) and Ajibade Aibinu
 * Sasada Award Committee: Tom Kvan, Yu-Tung Liu, Teng-Wen Chang (President), Atsuko Kaga (sasada@caadria.org)
 * IJAC Editor: Sambit Datta and Wendy Fok
 
-2014-15
+#### 2014-15
 * Award/Scholarship Committee Chair: Teng-Wen Chang (Chair), National Yunlin University of Science and Technology, Taiwan.
   * Best Paper Award Committee: Tomohiro Fukuda (Chair), Rudi Stouffs, and Marc Aurel Schnabel
   * Best Presentation Award Committee: Weixin Huang (Chair), Thomas Fischer, Nik Sheng-Fen Chien, Ji-Hyun Lee
@@ -81,7 +79,7 @@ title: Past Officers
 * PG Students Consortium: Andrew Li (Chair), Jin Kook Lee, June-Hao Hou
 * Sasada Award Committee: Tom Kvan, Yu-Tung Liu, Tomohiro Fukuda, Atsuko Kaga (sasada@caadria.org)
 
-2013-14
+#### 2013-14
 * Award/Scholarship Committee: Teng-Wen CHANG(Chair), National Yunlin University of Science and Technology, Taiwan
 * Paper Selection Committee: Ning GU (chair), Shun WATANABE, Weixin HUANG, Hank Haeusler, and Ricardo Sosa.
 * PG Students Consortium: Sheng-Fen Nik Chien (Chair), Ji-Hyun Lee, Andrew Li
