@@ -24,13 +24,13 @@ description: The Association of Computer-Aided Architectural Design Research in 
 # List of links in the navigation bar
 navbar-links:
   Organisation: "about"
-    - About: "about"
+#    - About: "about"
     - Awards: "awards"
     - Charter: "charter"
     - Officers: "officers"
     - Past Officers: "past-officers"
-#  Conference: "conference"
-#    - Action Manuals: "manuals"
+  Conference: "conference"
+    - Action Manuals: "manuals"
 #    - Current Conference: "conference"
 #    - Past Conferences: "past-conferences"
   Paper Submission: "http://137.132.146.35/"
