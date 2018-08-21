@@ -4,7 +4,7 @@ title: Officers
 ---
 
 #### Current term: 2018-2020
-|----
+|----|----|
 | President | Christiane Herr (Xi'an Jiaotong-Liverpool University, China) |
 | Secretary | Walaiporn Nakapan (Rangsit University, Thailand) |
 | Treasurer | Wei Xin Huang (Tsinghua University, China) |
