@@ -91,17 +91,17 @@ title: Award Recipients
 
 ----
 
-##Young CAADRIA Award
+## Young CAADRIA Award
 
 * CAADRIA 2015: Daegu [KR]
-  * Serdar Aydin, Chinese University of Hong Kong, China
-  * Daekwon Park, Harvard University, USA
-  * Jaclyn Kayen Sun, University of Melbourne, Australia
-  * Yi-Sin Wu, National Yunlin University of Science and Technology, Taiwan
-  * Hua Chai, Tongiji University, China
-  * Wendy W Fok, Harvard University, USA
+  * Serdar Aydin (Chinese University of Hong Kong, China)
+  * Daekwon Park (Harvard University, USA)
+  * Jaclyn Kayen Sun (University of Melbourne, Australia)
+  * Yi-Sin Wu (National Yunlin University of Science and Technology, Taiwan)
+  * Hua Chai (Tongiji University, China)
+  * Wendy W Fok (Harvard University, USA)
 * CAADRIA 2014: Kyoto [JP]
-  * Chian Eugene(National University of Singapore, Singapore)
+  * Chian Eugene (National University of Singapore, Singapore)
   * Lezhi Li (Nanjing University, China)
   * Madeline Gannon (Carnegie Mellon University, USA)
   * Mani Williams (RMIT University, Australia)
