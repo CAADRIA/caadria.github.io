@@ -29,10 +29,10 @@ navbar-links:
     - Charter: "charter"
     - Officers: "officers"
     - Past Officers: "past-officers"
-#  Conference: "conference"
-#    - Action Manuals: "manuals"
+  Conference: "conference"
+    - Action Manuals: "manuals"
 #    - Current Conference: "conference"
-#    - Past Conferences: "past-conferences"
+    - Past Conferences: "past-conferences"
   Paper Submission: "http://137.132.146.35/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
