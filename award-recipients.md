@@ -3,7 +3,7 @@ layout: page
 title: Award Recipients
 ---
 
-[Best Paper Award](#best-paper-award) | [Best Presentation Award](best-presentation-award) | [Young CAADRIA Award](young-caadria-award)
+[Best Paper Award](#best-paper-award) | [Best Presentation Award](#best-presentation-award) | [Young CAADRIA Award](#young-caadria-award)
 
 ## Best Paper Award
 
