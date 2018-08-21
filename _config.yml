@@ -29,7 +29,7 @@ navbar-links:
     - Charter: "charter"
     - Officers: "officers"
     - Past Officers: "past-officers"
-  Conference: "conference"
+  Conference:
     - Action Manuals: "action-manuals"
     - Current Conference: "conference"
     - Past Conferences: "past-conferences"
