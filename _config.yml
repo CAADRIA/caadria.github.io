@@ -42,20 +42,21 @@ navbar-links:
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
+title-img: /img/CAADRIA_Logo_Icon.png
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#999900" # was F5F5F5
+navbar-col: "#FFFFCC" # was F5F5F5
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#F5F5F5"
+link-col: "#008080" # was 008AFF
+hover-col: "#00A0A0" # was 0085A1
+footer-col: "#F5F5F5" # was F5F5F5
 footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-link-col: "#006060" # was 404040
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
