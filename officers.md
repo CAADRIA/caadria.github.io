@@ -15,10 +15,10 @@ title: Officers
 | Publication Officer | TBC |
 | Web Master | TBC |
 
-#### CAADRIA Committees
+## CAADRIA Committees
   * TBC
 
-#### Honorary Advisors
+## Honorary Advisors
   * TBC
 
 &rarr; [Past Officers](past-officers.md)
