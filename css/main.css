@@ -478,15 +478,15 @@ footer .theme-by {
 }
 .intro-header .page-heading h1 {
   margin-top: 0;
-  font-size: 40px; /* was 50px */
+  font-size: 32px; /* was 50px */
 }
 .intro-header .post-heading h1 {
   margin-top: 0;
-  font-size: 30px; /* was 35px */
+  font-size: 26px; /* was 35px */
 }
 .intro-header .page-heading .page-subheading,
 .intro-header .post-heading .post-subheading {
-  font-size: 24px; /* was 27px */
+  font-size: 22px; /* was 27px */
   line-height: 1.1;
   display: block;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -531,10 +531,10 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 72px; /* was 80px */
+    font-size: 50px; /* was 80px */
   }
   .intro-header .post-heading h1 {
-    font-size: 40px; /* was 50px */
+    font-size: 36px; /* was 50px */
   }
   .intro-header.big-img .img-desc {
     font-size: 12px; /* was 14px */
