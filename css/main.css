@@ -531,10 +531,10 @@ footer .theme-by {
     padding: 150px 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 50px; /* was 80px */
+    font-size: 60px; /* was 80px */
   }
   .intro-header .post-heading h1 {
-    font-size: 36px; /* was 50px */
+    font-size: 42px; /* was 50px */
   }
   .intro-header.big-img .img-desc {
     font-size: 12px; /* was 14px */
