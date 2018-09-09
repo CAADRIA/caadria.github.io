@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Action Manuals
+subtitle: Instructions for Future Conference Hosts
 ---
-
-# Instructions for Future Conference Hosts
 
 ### Typical responsibilities of CAADRIA conference hosts
 
