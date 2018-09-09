@@ -5,10 +5,10 @@ subtitle: The 24th Annual Conference of the Association for Computer-Aided Archi
 ---
 
 <div align="center">
-www.caadria2019.org  &  www.caadria2019.nz
+[www.caadria2019.org](http://www.caadria2019.org)  &  [www.caadria2019.nz](http://www.caadria2019.nz) <br />
 
-15th (Monday) - 18th (Wednesday) April, 2019 \
-Victoria University of Wellington, Faculty of Architecture & Design, New Zealand
+15th (Monday) - 18th (Wednesday) April, 2019 <br />
+Victoria University of Wellington, Faculty of Architecture & Design, New Zealand <br />
 </div>
 
 * Abstracts due by 01 Oct 2018
@@ -24,16 +24,15 @@ The scope of this theme is driven by the intention to take in aspects of machine
 Within the coverage of the call lies a broad spectrum of approaches ranging from speculative, informal investigations to conventional scientific research, including but not limited to the following research and praxis topics. Papers, Posters, Roundtable, Workshops, & Postgraduate Student Consortium must address the conference theme 'Informed & Intelligent'.
 
 <div align="centr">
-Intelligence \
-Human   .   Artificial   .   City   .   Heritage   .   Indigenous \
-Information \
-Contextual   .   Cultural   .   Historical   .   Computational \
-& \
-Security   .  Sharing   .   Reliability   .   Additionality
+__Intelligence__ <br />
+Human   .   Artificial   .   City   .   Heritage   .   Indigenous <br />
+__Information__ <br />
+Contextual   .   Cultural   .   Historical   .   Computational <br />
+& <br />
+Security   .  Sharing   .   Reliability   .   Additionality <br />
 </div>
 
 ## Paper Submissions
-
 __Abstracts__: Abstracts will be subject to an initial review  (desirable - not required for full paper submission). Length ca 500 words plus key references. 
 
 __Papers__: Full papers will be subject to a double-blind peer review of full-length manuscripts. Length: 10 pages fitting the CAADRIA format (ca. ~3000-4000 words).
@@ -43,16 +42,14 @@ Submission details, style and format are listed at the Submission page.  Publica
 * Submission via "Submissions" page
 * Submission Deadline Abstract: 1st October 2018
 * Submission Deadline Full Paper:10th December 2018
- 
+
 ## Poster Submissions
- 
 In addition to full paper submissions the conference 'Intelligent & Informed' also invites posters on general topics in computational design research. It is planned that posters accepted will be included in a digital compendium of abstracts and posters.
 
 * Submission via: caadria@vuw.ac.nz
 * Submission Deadline: 10th February 2019
- 
+
 ## Workshop Submissions
- 
 Workshops relating to the broader field of the conference topic Intelligent & Informed are sought. Workshops on advanced topics related to "Intelligent & Informed" providing considerable opportunity for discussion and are generally not run as mini-conferences. Proposals for workshops should contain the following information in no more than 800 words:
 
 * Workshop title
@@ -62,9 +59,8 @@ Workshops relating to the broader field of the conference topic Intelligent & In
 * Workshop format and details
 * Submission via: caadria@vuw.ac.nz
 * Submission Deadline: 10th February 2019
- 
+
 ## Roundtable Session Submissions
- 
 Intelligent & Informed Round Table Session discusses in depth the conference theme and brings together the various current development in computational architecture. Proposals for workshops should contain the following information in no more than 500 words:
 
 * Roundtable title
@@ -74,9 +70,8 @@ Intelligent & Informed Round Table Session discusses in depth the conference the
 * Format and details
 * Submission via: caadria@vuw.ac.nz
 * Submission Deadline: 10th February 2019
- 
+
 ## Postgraduate Student Consortium Submissions
- 
 The Postgraduate Student Consortium provides a supportive setting for feedback on students' current research and guidance on future research directions. It promotes the development of a supportive community of scholars and a spirit of collaborative research. This is an excellent opportunity to network with colleagues of similar background or interests and from the international community. Students are asked to present their ongoing research work and results to date. They will have the chance to discuss their research in an informal session with peers and experienced academics from their field.
 
 __Review Criteria__
@@ -95,9 +90,8 @@ Applications consist of:
 
 * Submission via email to: pgsc@gmail.com
 * Submission Deadline: 10th February 2019
- 
+
 ## Young CAADRIA Award
- 
 Young CAADRIA Awards are funded by CAADRIA, given by a committee jointly by CAADRIA, the Paper Selection Committee, and the Conference Host and will be decided by them after the acceptance of papers. Awards will be applied to conference registration fees and are not transferable (e.g. awardees cannot assign them to co-authors). If an awardee does not attend the conference, no award will be given. Open to full or part-time registered students (PhD or Masters or undergraduate), chosen before the conference, winners exempt from paying registration fees. The student applies for award if the paper is selected for inclusion into the conference. Chosen on the merit of abstract, contribution and relevance to CAADRIA and demonstrated depth of research interest.
 
 __Criteria__
@@ -114,7 +108,7 @@ __Application__
 * Submission Deadline: 30th January 2019
 * Submission via email: psc@caadria-review.org
 * CV, list of publications, accepted paper and other supporting documents.
- 
+
 ----
 ### Contact
 
