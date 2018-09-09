@@ -5,10 +5,11 @@ subtitle: The 24th Annual Conference of the Association for Computer-Aided Archi
 ---
 
 <div align="center">
-[www.caadria2019.org](http://www.caadria2019.org)  &  [www.caadria2019.nz](http://www.caadria2019.nz) <br />
-
+<a href="http://www.caadria2019.org">www.caadria2019.org</a>  &  <a href="http://www.caadria2019.nz">www.caadria2019.nz</a><br />
+<br />
 15th (Monday) - 18th (Wednesday) April, 2019 <br />
 Victoria University of Wellington, Faculty of Architecture & Design, New Zealand <br />
+<br />
 </div>
 
 * Abstracts due by 01 Oct 2018
@@ -85,8 +86,8 @@ __Review Criteria__
 __Applications__
 
 Applications consist of:
-- An extended abstract or full paper describing work in process and key questions addressed
-- A one-page curriculum vitae (attached to the end of the paper)
+* An extended abstract or full paper describing work in process and key questions addressed
+* A one-page curriculum vitae (attached to the end of the paper)
 
 * Submission via email to: pgsc@gmail.com
 * Submission Deadline: 10th February 2019
