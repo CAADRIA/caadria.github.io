@@ -30,8 +30,8 @@ navbar-links:
     - Officers: "officers"
     - Past Officers: "past-officers"
   Conference:
-    - Current Conference: "conference"
-    - Past Conferences: "past-conferences"
+    - Current Conference: "/conf/index.md"
+    - Past Conferences: "/conf/past.md"
     - Action Manuals: "action-manuals"
   Paper Submission: "http://137.132.146.35/"
 
