@@ -23,7 +23,7 @@ description: The Association of Computer-Aided Architectural Design Research in 
 
 # List of links in the navigation bar
 navbar-links:
-  Org:
+  Organisation:
     - About: "about"
     - Awards: "awards"
     - Charter: "charter"
@@ -80,8 +80,8 @@ social-network-links:
   rss: false
   email: "webadmin@caadria.org"
   facebook: groups/229790987037041
-  github: caadria
-  twitter: caadria
+#  github: caadria
+#  twitter: caadria
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: caadria
