@@ -1,12 +1,12 @@
 ---
 layout: page
-title: New Frontiers
-subtitle: The 15th CAADRIA Conference
+title: CAADRIA 2010
+subtitle: The 15th Conference on Computer-Aided Architectural Design Research in Asia
 ---
 
-# CAADRIA 2010: New Frontiers
+# New Frontiers
 
-<img src="./caadria_cover_2000.jpg" width="250" align="right" />
+<img src="./caadria_cover_2010.jpg" width="250" align="right" />
 
 ### Conference Organisation:
 The School of Architecture & Institute of Space & Earth Information Science at the Chinese University of Hong Kong, Hong Kong
