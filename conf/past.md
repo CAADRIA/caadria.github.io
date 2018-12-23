@@ -11,27 +11,19 @@ title: Past Conferences
 <a href="/conf/caadria2013/"><img src="/conf/img/caadria_thumbnail_2013.jpg" width="200" /></a> 
 <a href="/conf/caadria2012/"><img src="/conf/img/caadria_thumbnail_2012.jpg" width="200" /></a> 
 <a href="/conf/caadria2011/"><img src="/conf/img/caadria_thumbnail_2011.jpg" width="200" /></a> 
+<a href="/conf/caadria2010/"><img src="/conf/img/caadria_thumbnail_2010.jpg" width="200" /></a> 
+<a href="/conf/caadria2009/"><img src="/conf/img/caadria_thumbnail_2009.jpg" width="200" /></a> 
+<a href="/conf/caadria2008/"><img src="/conf/img/caadria_thumbnail_2008.jpg" width="200" /></a> 
+<a href="/conf/caadria2007/"><img src="/conf/img/caadria_thumbnail_2007.jpg" width="200" /></a> 
+<a href="/conf/caadria2006/"><img src="/conf/img/caadria_thumbnail_2006.jpg" width="200" /></a> 
+<a href="/conf/caadria2005/"><img src="/conf/img/caadria_thumbnail_2005.jpg" width="200" /></a> 
+<a href="/conf/caadria2004/"><img src="/conf/img/caadria_thumbnail_2004.jpg" width="200" /></a> 
+<a href="/conf/caadria2003/"><img src="/conf/img/caadria_thumbnail_2003.jpg" width="200" /></a> 
+<a href="/conf/caadria2002/"><img src="/conf/img/caadria_thumbnail_2002.jpg" width="200" /></a> 
+<a href="/conf/caadria2001/"><img src="/conf/img/caadria_thumbnail_2001.jpg" width="200" /></a> 
+<a href="/conf/caadria2000/"><img src="/conf/img/caadria_thumbnail_2000.jpg" width="200" /></a> 
+<a href="/conf/caadria1999/"><img src="/conf/img/caadria_thumbnail_1999.jpg" width="200" /></a> 
+<a href="/conf/caadria1998/"><img src="/conf/img/caadria_thumbnail_1998.jpg" width="200" /></a> 
+<a href="/conf/caadria1997/"><img src="/conf/img/caadria_thumbnail_1997.jpg" width="200" /></a> 
+<a href="/conf/caadria1996/"><img src="/conf/img/caadria_thumbnail_1996.jpg" width="200" /></a> 
 
-# List of the past conferences
-* CAADRIA 2018
-* CAADRIA 2017
-* CAADRIA 2016
-* CAADRIA 2015
-* CAADRIA 2014
-* CAADRIA 2013
-* CAADRIA 2012
-* CAADRIA 2011
-* CAADRIA 2010
-* CAADRIA 2009
-* CAADRIA 2008
-* CAADRIA 2007
-* CAADRIA 2006
-* CAADRIA 2005
-* CAADRIA 2004
-* CAADRIA 2003
-* CAADRIA 2002
-* CAADRIA 2001
-* CAADRIA 2000
-* CAADRIA 1999
-* CAADRIA 1998
-* CAADRIA 1997
