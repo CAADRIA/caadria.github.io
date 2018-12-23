@@ -5,7 +5,7 @@ title: CAADRIA 2017
 
 # CAADRIA 2017: Protocols, Flows and Glitches
 
-<img src="./caadria_cover_2017.jpg" width="120" align="right" />
+<img src="./caadria_cover_2017.jpg" width="250" align="right" />
 
 ### Conference Organisation:
 XI'AN JIAOTONG-LIVERPOOL UNIVERSITY, SUZHOU, CHINA
