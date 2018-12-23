@@ -2,12 +2,11 @@
 layout: page
 title: New Frontiers
 subtitle: The 15th CAADRIA Conference
-image: caadria2010_avatar.jpg
 ---
 
 # CAADRIA 2010: New Frontiers
 
-![Bookcover of CAADRIA 2010 Proceedings](/img/caadria2010.png)
+<img src="./caadria_cover_2000.jpg" width="250" align="right" />
 
 ### Conference Organisation:
 The School of Architecture & Institute of Space & Earth Information Science at the Chinese University of Hong Kong, Hong Kong
