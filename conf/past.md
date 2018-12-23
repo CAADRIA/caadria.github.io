@@ -3,14 +3,14 @@ layout: page
 title: Past Conferences
 ---
 
-<a href="./caadria2018/"><img src="./img/caadria_thumbnail_2018.jpg" width="200" /></a> 
-<a href="./caadria2017/"><img src="./img/caadria_thumbnail_2017.jpg" width="200" /></a> 
-<a href="./caadria2016/"><img src="./img/caadria_thumbnail_2016.jpg" width="200" /></a> 
-<a href="./caadria2015/"><img src="./img/caadria_thumbnail_2015.jpg" width="200" /></a> 
-<a href="./caadria2014/"><img src="./img/caadria_thumbnail_2014.jpg" width="200" /></a> 
-<a href="./caadria2013/"><img src="./img/caadria_thumbnail_2013.jpg" width="200" /></a> 
-<a href="./caadria2012/"><img src="./img/caadria_thumbnail_2012.jpg" width="200" /></a> 
-<a href="./caadria2011/"><img src="./img/caadria_thumbnail_2011.jpg" width="200" /></a> 
+<a href="/conf/caadria2018/"><img src="/conf/img/caadria_thumbnail_2018.jpg" width="200" /></a> 
+<a href="/conf/caadria2017/"><img src="/conf/img/caadria_thumbnail_2017.jpg" width="200" /></a> 
+<a href="/conf/caadria2016/"><img src="/conf/img/caadria_thumbnail_2016.jpg" width="200" /></a> 
+<a href="/conf/caadria2015/"><img src="/conf/img/caadria_thumbnail_2015.jpg" width="200" /></a> 
+<a href="/conf/caadria2014/"><img src="/conf/img/caadria_thumbnail_2014.jpg" width="200" /></a> 
+<a href="/conf/caadria2013/"><img src="/conf/img/caadria_thumbnail_2013.jpg" width="200" /></a> 
+<a href="/conf/caadria2012/"><img src="/conf/img/caadria_thumbnail_2012.jpg" width="200" /></a> 
+<a href="/conf/caadria2011/"><img src="/conf/img/caadria_thumbnail_2011.jpg" width="200" /></a> 
 
 # List of the past conferences
 * CAADRIA 2018
