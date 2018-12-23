@@ -7,9 +7,9 @@ subtitle: The 5th Conference on Computer-Aided Architectural Design Research in 
 <img src="./caadria_cover_2000.jpg" width="250" align="right" />
 
 ### Conference Organisation
-Centre for Advanced Studies in Architecture (CASA) \
-School of Architecture \
-Faculty of Architecture, Building and Real Estate \
+Centre for Advanced Studies in Architecture (CASA)<br />
+School of Architecture<br />
+Faculty of Architecture, Building and Real Estate<br />
 National University of Singapore, Singapore
 
 ### Chairman
