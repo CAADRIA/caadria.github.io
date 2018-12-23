@@ -1,9 +1,10 @@
 ---
 layout: page
 title: CAADRIA 2017
+subtitle: The 22nd Conference on Computer-Aided Architectural Design Research in Asia
 ---
 
-# CAADRIA 2017: Protocols, Flows and Glitches
+# Protocols, Flows and Glitches
 
 <img src="./caadria_cover_2017.jpg" width="250" align="right" />
 
