@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CAADRIA 2018
-subtitle: The 23nd Conference on Computer-Aided Architectural Design Research in Asia. 17-19 May 2018. Beijing, China.
+subtitle: The 23rd Conference on Computer-Aided Architectural Design Research in Asia. 17-19 May, 2018. Beijing, China.
 ---
 
 # Learning, Prototyping and Adapting
