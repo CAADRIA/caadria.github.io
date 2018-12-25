@@ -18,7 +18,7 @@ title: Officers
 | Communication Officer | TBC |
 | Organization Officer | TBC |
 | Publication Officer | TBC |
-| Web Master | TBC |
+| Web Master | Kyung Hoon Hyun (Hanyang University, Korea) |
 
 ## CAADRIA Committees
   * TBC
