@@ -2,9 +2,9 @@
 layout: page
 title: About CAADRIA
 ---
-<center>
+<div align="center">
 | [Awards](awards.md) | [Charter](charter.md) | [Officers](officers.md) | [Past Officers](past-officers.md) |
-</center>
+</div>
 
 * [Publications](#publications)
 * [Related organisations](#related-organisations)
