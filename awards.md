@@ -3,6 +3,10 @@ layout: page
 title: Awards
 ---
 
+<div align="center">
+  <a href="/awards.md">Intro</a> | Awards | <a href="/charter.md">Charter</a> | <a href="/officers.md">Officers</a>
+</div>
+
 ## SASADA AWARD
 &rarr; [Sasada Award Recipients](award-sasada.md)
 
