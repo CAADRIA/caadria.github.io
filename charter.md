@@ -3,6 +3,10 @@ layout: page
 title: Charter
 ---
 
+<div align="center">
+  <a href="/awards.md">Intro</a> | <a href="awards.md">Awards | Charter | <a href="/officers.md">Officers</a>
+</div>
+
 ### Objectives
 1. facilitate the dissemination of information about CAAD amongst the Asian Schools of Architecture, Planning, Engineering, and Building Sciences.
 1. to encourage the exchange of software, courseware, experiences and staff/students amongst schools
