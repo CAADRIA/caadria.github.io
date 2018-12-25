@@ -3,6 +3,10 @@ layout: page
 title: Officers
 ---
 
+<div align="center">
+ <a href="/awards.md">Intro</a> | <a href="awards.md">Awards</a> | <a href="/charter.md">Charter</a> | Officers
+</div>
+
 | EXCO Members | Current term: 2018-2020 |
 |----|----|
 | President | Christiane Herr (Xi'an Jiaotong-Liverpool University, China) |
