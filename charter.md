@@ -4,7 +4,7 @@ title: Charter
 ---
 
 <div align="center">
-  <a href="/about">About</a> | <a href="awards.md">Awards | Charter | <a href="/officers">Officers</a>
+  <a href="/about">About</a> | <a href="awards.md">Awards</a> | Charter | <a href="/officers">Officers</a>
 </div>
 
 ### Objectives
