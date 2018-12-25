@@ -7,6 +7,12 @@ title: Awards
   <a href="/about">About</a> | Awards | <a href="/charter">Charter</a> | <a href="/officers">Officers</a>
 </div>
 
+#### TOC
+* [Sasada Award](#sasada-award)
+* [Best Paper Award](#best-paper-award)
+* [Best Presentation Award](#best-presentation-award)
+* [Yound CAADRIA Award](#yound-caadria-award)
+
 ## SASADA AWARD
 &rarr; [Sasada Award Recipients](award-sasada.md)
 
