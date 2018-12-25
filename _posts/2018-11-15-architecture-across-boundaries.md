@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CFP: International Conference ARCHITECTURE ACROSS BOUNDARIES June 19-21 2019
+title: International Conference ARCHITECTURE ACROSS BOUNDARIES CFP
 date: 2018-11-15
 tags: [Conference, Suzhou, CFP]
 ---
