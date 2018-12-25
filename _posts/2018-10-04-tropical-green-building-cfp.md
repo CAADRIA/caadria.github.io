@@ -1,3 +1,9 @@
+---
+layout: post
+title: 8th International Conference of Tropical/Subtropical Green Building Call for Paper
+tags: [Conference, Hong Kong, Green Building, CFP]
+---
+
 Call for Abstract and Participation: The 8th International Conference of Tropical and Subtropical Green Building Council Alliance & 9th Cross-Strait Green Building Technology Development Forum
 
 16th – 18th November 2018 · Hong Kong Science Park, Hong Kong
