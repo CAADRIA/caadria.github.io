@@ -4,7 +4,7 @@ title: Awards
 ---
 
 <div align="center">
-  <a href="/awards">Intro</a> | Awards | <a href="/charter">Charter</a> | <a href="/officers">Officers</a>
+  <a href="/about">About</a> | Awards | <a href="/charter">Charter</a> | <a href="/officers">Officers</a>
 </div>
 
 ## SASADA AWARD
