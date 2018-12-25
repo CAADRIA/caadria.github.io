@@ -4,7 +4,7 @@ title: Officers
 ---
 
 <div align="center">
- <a href="/about">About</a> | <a href="awards">Awards</a> | <a href="/charter">Charter</a> | Officers
+ <a href="/about">About</a> | <a href="/awards">Awards</a> | <a href="/charter">Charter</a> | Officers
 </div>
 
 ## EXCO Members (Current term: 2018-2020)
