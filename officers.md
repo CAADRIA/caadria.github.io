@@ -4,11 +4,11 @@ title: Officers
 ---
 
 <div align="center">
- <a href="/awards.md">Intro</a> | <a href="awards.md">Awards</a> | <a href="/charter.md">Charter</a> | Officers
+ <a href="/about">About</a> | <a href="awards">Awards</a> | <a href="/charter">Charter</a> | Officers
 </div>
 
-| EXCO Members | Current term: 2018-2020 |
-|----|----|
+## EXCO Members (Current term: 2018-2020)
+
 | President | Christiane Herr (Xi'an Jiaotong-Liverpool University, China) |
 | Secretary | Walaiporn Nakapan (Rangsit University, Thailand) |
 | Treasurer | Wei Xin Huang (Tsinghua University, China) |
