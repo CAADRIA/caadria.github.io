@@ -3,7 +3,9 @@ layout: page
 title: About CAADRIA
 ---
 <div align="center">
+
 | [Awards](awards.md) | [Charter](charter.md) | [Officers](officers.md) | [Past Officers](past-officers.md) |
+
 </div>
 
 * [Publications](#publications)
