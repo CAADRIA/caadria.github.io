@@ -25,8 +25,8 @@ Conference proceedings will be published with the University of Liverpool Press,
 * Deadline for Abstracts: 28th November 2018
 * Deadline for Posters: 17th February 2019
 
-[](https://www.conftool.pro/architecture-across-boundaries-2019)
+https://www.conftool.pro/architecture-across-boundaries-2019
 
-For more information on the conference themes and keynote speakers or to submit an abstract, visit our website: [](http://www.xjtlu.edu.cn/en/architecture-across-boundaries)
+For more information on the conference themes and keynote speakers or to submit an abstract, visit our website: http://www.xjtlu.edu.cn/en/architecture-across-boundaries
 
 For enquires email 2019conference.arc@xjtlu.edu.cn
