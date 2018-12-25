@@ -4,7 +4,7 @@ title: About CAADRIA
 ---
 
 <div align="center">
-[Awards](awards.md) | [Charter](charter.md) | [Officers](officers.md)
+  <a href="awards.md">Awards</a> | <a href="charter.md">Charter</a> | <a href="officers.md">Officers</a>
 </div>
 
 * [Publications](#publications)
