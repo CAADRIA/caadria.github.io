@@ -3,7 +3,7 @@ layout: page
 title: About CAADRIA
 ---
 
- | [Awards](awards.md) | [Charter](charter.md) | [Officers](officers.md) | [Past Officers](past-officers.md) |
+| [Awards](awards.md) | [Charter](charter.md) | [Officers](officers.md) | [Past Officers](past-officers.md) |
 
 * [Publications](#publications)
 * [Related organisations](#related-organisations)
