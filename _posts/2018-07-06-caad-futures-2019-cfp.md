@@ -1,6 +1,8 @@
 ---
 layout: post
 title: CAAD Futures 2019 Call for Abstracts
+date: 2018-07-06
+tags: [Conference, CAADFutures, CFP]
 ---
 
 CAAD Futures 2019 “HELLO, CULTURE !", KAIST, Daejeon, Korea
