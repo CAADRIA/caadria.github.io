@@ -1,7 +1,8 @@
 ---
 layout: post
 title: eCAADe + SIGraDi 2019 Call for Papers
-tags: [eCAADe, SIGraDi, CFP]
+date: 2018-12-10
+tags: [Conference, eCAADe, SIGraDi, CFP]
 ---
 
 We are very pleased to announce the 2nd Call for Papers for the 37th eCAADe Conference / XXIII SIGraDi Conference dedicated to the theme of “Architecture in the Age of the 4th Industrial Revolution”.
