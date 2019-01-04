@@ -5,9 +5,7 @@ date: 2018-03-17
 tags: [Workshop, Lisboa]
 ---
 
-The Design Computation Group launching a summer school workshop program (see details in link below)
- 
-http://dcgsummerschool2018.fa.ulisboa.pt/
+The Design Computation Group launching a summer school workshop program. [See details in link.](http://dcgsummerschool2018.fa.ulisboa.pt/)
 
 ![](/img/2018-03-17.png)
 
