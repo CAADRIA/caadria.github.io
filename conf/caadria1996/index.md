@@ -14,6 +14,6 @@ HKU Department of Architecture, The University of Hong Kong, Hong Kong
 ### Conference Chair
 * Thomas KVAN
 
-&rarr; [Find all CAADRIA 1996 papers on CuminCAD](https://cumincad.architexturez.net/documents/series/CAADRIA%20'96)
+&rarr; [Find all CAADRIA 1996 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A1996)
 
 &rarr; CuminCAD bibliographic information
