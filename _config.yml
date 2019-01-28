@@ -78,7 +78,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "webadmin@caadria.org"
+  email: "webmaster@caadria.org"
   facebook: groups/229790987037041
 #  github: caadria
 #  twitter: caadria
