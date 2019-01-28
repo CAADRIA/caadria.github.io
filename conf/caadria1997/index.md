@@ -4,8 +4,6 @@ title: CAADRIA 1997
 subtitle: The 2nd Conference on Computer-Aided Architectural Design Research in Asia. 17-19 April, 1997. Hsinchu, Taiwan.
 ---
 
-# Learning, Prototyping and Adapting
-
 <img src="./caadria_cover_1997.jpg" width="250" align="right" />
 
 ### Conference Organisation
