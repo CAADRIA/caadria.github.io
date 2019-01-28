@@ -4,7 +4,7 @@ title: CAADRIA 2001
 subtitle: The 6th Conference on Computer-Aided Architectural Design Research in Asia. 2001. Sydney, Australia.
 ---
 
-<img src="./caadria_cover_2018.jpg" width="250" align="right" />
+<img src="./caadria_cover_2001.jpg" width="250" align="right" />
 
 ### Conference Organisation
 Key Centre of Design Computing and Cognition, Faculty of Architecture, University of Sydney, Sydney, Australia
