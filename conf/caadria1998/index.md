@@ -4,8 +4,6 @@ title: CAADRIA 1998
 subtitle: The 3rd Conference on Computer-Aided Architectural Design Research in Asia. 1998. Osaka, Japan.
 ---
 
-# Learning, Prototyping and Adapting
-
 <img src="./caadria_cover_1998.jpg" width="250" align="right" />
 
 ### Conference Organisation
