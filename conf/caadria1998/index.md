@@ -15,6 +15,6 @@ Sasada Laboratory, Department of Environmental Engineering, Osaka University, Os
 * Mitsuo Morozumi (Program Chair), Professor, Kumamoto University, JAPAN
 * Atsuko Kaga (Conference Manager), Lecturer, Osaka University & Hankyu Institute of Technology and Culture, JAPAN
 
-&rarr; [Find all CAADRIA 1998 papers on CuminCAD](https://cumincad.architexturez.net/documents/series/CAADRIA%20'98)
+&rarr; [Find all CAADRIA 1998 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A1998)
 
 &rarr; CuminCAD bibliographic information
