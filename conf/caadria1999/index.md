@@ -15,6 +15,6 @@ College of Architecture and Urban Planning, Tonji University, Shanghai, China
 * Zhen-yu Xie (Conference Manager), Lecturer, Tongji University, CHINA
 * Jing-ping Qian (Conference Manager), Southeasr University, CHINA
 
-&rarr; [Find all CAADRIA 1999 papers on CuminCAD](https://cumincad.architexturez.net/documents/series/CAADRIA%20'99)
+&rarr; [Find all CAADRIA 1999 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A1999)
 
 &rarr; CuminCAD bibliographic information
