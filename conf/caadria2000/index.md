@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CAADRIA 2000
-subtitle: The 5th Conference on Computer-Aided Architectural Design Research in Asia
+subtitle: The 5th Conference on Computer-Aided Architectural Design Research in Asia, 2000. Singapore.
 ---
 
 <img src="./caadria_cover_2000.jpg" width="250" align="right" />
