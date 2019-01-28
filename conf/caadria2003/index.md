@@ -1,36 +1,21 @@
 ---
 layout: page
-title: CAADRIA 2013
-subtitle: The 18th Conference on Computer-Aided Architectural Design Research in Asia. May 15-18, 2013. Singapore.
+title: CAADRIA 2003
+subtitle: The 8th Conference on Computer-Aided Architectural Design Research in Asia. 2003. Bangkok, Thailand.
 ---
 
-# Open Systems
-
-<img src="./caadria_cover_2013.jpg" width="250" align="right" />
+<img src="./caadria_cover_2003.jpg" width="250" align="right" />
 
 ### Conference Organisation:
-Department of Architecture, National University Singapore, Singapore
+Rangsit University, Bangkok, Thailand
 
 ### Conference Organizing Committee:
-* Conference Chair : Tan Beng Kiang
-* Vice Chair : Patrick Janssen
-* Rudi Stouffs
-* Shinya Okuda
-* Huang Yi Chun
-* Dorothy Man Mei Ling
-* Katherine Chong
+* Conference Chair: Araya Choutgrajank
+* Conference Manager: Ekasidh Charoensilp
+* Conference coordinator: Kamol Keatruangkamala
+* Conference Registration: Raktham Sallakachat
+* Conference Secretary: Wailaiporn Nakapan
 
-### Paper Selection Committee:
-* Chair : Rudi Stouffs (National University of Singapore, Delft University of Technology)
-* Patrick Janssen (National University of Singapore)
-* Stanislav Roudavski (The University of Melbourne)
-* Bige Tuncer (Singapore University of Technology and Design, Delft University of Technology)
-
-### Postgraduate Student Consortium:
-* Sheng-Fen Nik Chien (Chair)
-* Ji-Hyun Lee
-* Andrew Li
-
-&rarr; Find all CAADRIA 2013 papers on CuminCAD
+&rarr; [Find all CAADRIA 2003 papers on CuminCAD](https://cumincad.architexturez.net/documents/series/CAADRIA%20'03)
 
 &rarr; CuminCAD bibliographic information
