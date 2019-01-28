@@ -14,6 +14,6 @@ Faculty of Creative Multimedia, Multimedia University Malaysia, Cyberjaya, Malay
 ### Conference Organizing Committee
 * Ahmad Rafi Mohamed Eshaq (Chair)
 
-&rarr; [Find all CAADRIA 2002 papers on CuminCAD](https://cumincad.architexturez.net/documents/series/CAADRIA%20'02)
+&rarr; [Find all CAADRIA 2002 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2002)
 
 &rarr; CuminCAD bibliographic information
