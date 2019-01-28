@@ -16,6 +16,6 @@ Rangsit University, Bangkok, Thailand
 * Conference Registration: Raktham Sallakachat
 * Conference Secretary: Wailaiporn Nakapan
 
-&rarr; [Find all CAADRIA 2003 papers on CuminCAD](https://cumincad.architexturez.net/documents/series/CAADRIA%20'03)
+&rarr; [Find all CAADRIA 2003 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2003)
 
 &rarr; CuminCAD bibliographic information
