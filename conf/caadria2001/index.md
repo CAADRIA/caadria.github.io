@@ -13,6 +13,6 @@ Key Centre of Design Computing and Cognition, Faculty of Architecture, Universit
 * Co-Chairs: John Gero, Mike Rosenman, Scott Chase
 * Conference Manager: Anne Christian
 
-&rarr; [Find all CAADRIA 2001 papers on CuminCAD](https://cumincad.architexturez.net/documents/series/CAADRIA%20'01)
+&rarr; [Find all CAADRIA 2001 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2001)
 
 &rarr; CuminCAD bibliographic information
