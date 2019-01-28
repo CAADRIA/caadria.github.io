@@ -21,6 +21,6 @@ Centre for Advanced Studies in Architecture (CASA), School of Architecture, Facu
 * Dorothy Man
 * Emily Ong
 
-&rarr; [Find all CAADRIA 2000 papers on CuminCAD](https://cumincad.architexturez.net/documents/series/CAADRIA%20'00)
+&rarr; [Find all CAADRIA 2000 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2000)
 
 &rarr; CuminCAD bibliographic information
