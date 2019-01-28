@@ -14,6 +14,6 @@ Architecture Group, Graduate School of Applied Arts, National Chiao-Tung Univers
 * Jin-Yeu Tsou (Program Chair)
 * June-Hao Hou (Conference Manager)
 
-&rarr; [Find all CAADRIA 1997 papers on CuminCAD](https://cumincad.architexturez.net/documents/series/CAADRIA%20'97)
+&rarr; [Find all CAADRIA 1997 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A1997)
 
 &rarr; CuminCAD bibliographic information
