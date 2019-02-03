@@ -45,6 +45,6 @@ Department of Design, Engineering & Management, Kyoto Institute of Technology, K
 * Erik Champion
 * Dagmar Reinhardt
 
-&rarr; [Find all CAADRIA 2014 papers on CuminCAD](ttp://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2014)
+&rarr; [Find all CAADRIA 2014 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2014)
 
 &rarr; CuminCAD bibliographic information
