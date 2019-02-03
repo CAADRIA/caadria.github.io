@@ -29,6 +29,6 @@ The University of Melbourne, Melbourne, Australia
 * Andrew LI, Kyoto Institute of Technology (Chair)
 * Ajibade Aibinu (Australia)
 
-&rarr; Find all CAADRIA 2016 papers on CuminCAD
+&rarr; [Find all CAADRIA 2016 papers on CuminCAD](ttp://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2016)
 
 &rarr; CuminCAD bibliographic information
