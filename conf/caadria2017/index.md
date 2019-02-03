@@ -28,6 +28,6 @@ XI'AN JIAOTONG-LIVERPOOL UNIVERSITY, SUZHOU, CHINA
 ### Postgraduate Student Consortium:
 * Andrew Li (Japan), Chair
 
-&rarr; Find all CAADRIA 2017 papers on CuminCAD
+&rarr; [Find all CAADRIA 2017 papers on CuminCAD](ttp://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2017)
 
 &rarr; CuminCAD bibliographic information
