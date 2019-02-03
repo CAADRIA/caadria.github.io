@@ -6,7 +6,7 @@ subtitle: The 10th Conference on Computer-Aided Architectural Design Research in
 
 # Digital Opportunities
 
-<img src="./caadria_cover_2018.jpg" width="250" align="right" />
+<img src="./caadria_cover_2005.jpg" width="250" align="right" />
 
 ### Conference Organisation
 TVB School of Habitat Studies, New Delhi, India
