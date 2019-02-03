@@ -11,7 +11,7 @@ title: About CAADRIA
 * [Publications](#publications)
 * [Related organisations](#related-organisations)
 
-## Introduction
+# Introduction
 
 The Association for Computer-Aided Architectural Design Research in Asia (CAADRIA) promotes teaching and research in CAAD in Asia, and has members on six continents.
 
@@ -26,7 +26,7 @@ CAADRIA was founded in 1996 with the following objectives:
 
 CAADRIA is one of the four founding organizations of the International Journal of Architectural Computing (IJAC), and supervises one issue each year. IJAC is published by Multi-Science in both paper and electronic versions.
 
-## Publications
+# Publications
 
 ### CAADRIA Proceedings
 All CAADRIA conference proceedings are indexed in CUMINCAD. Copies of the proceedings can be purchased for HKD 320 each from:
@@ -47,7 +47,7 @@ The International Journal of Architectural Computing is produced quarterly both 
 ### [CuminCAD](http://papers.cumincad.org)
 CumInCAD is a cumulative index of publications about computer aided architectural design. It includes bibliographic information about over 10,400 records from journals and conferences such as ACADIA , CAADRIA , eCAADe , SiGraDi , CAAD futures and others. All papers include full abstracts. Full texts, in PDF, of some 7,600 papers are also available. A separate index of some 1,500 papers in Spanish language are maintained.
 
-## Related Organisations
+# Related Organisations
 
 * [CAAD Futures](http://www.caadfutures.org): CAAD Future Foundation
 * [eCAADe](http://www.ecaade.org): Education and research in Computer Aided Architectural Design in Europe
