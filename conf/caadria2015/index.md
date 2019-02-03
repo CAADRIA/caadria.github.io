@@ -61,6 +61,6 @@ Kyungpook National University, Daegu, Korea
 * Andrew LI, Kyoto Institute of Technology (Chair)
 * Jin Kook LEE, Hanyang University
 
-&rarr; Find all CAADRIA 2015 papers on CuminCAD
+&rarr; [Find all CAADRIA 2015 papers on CuminCAD](ttp://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2015)
 
 &rarr; CuminCAD bibliographic information
