@@ -16,7 +16,7 @@ School of Architecture, Hindustan Institute of Technology & Science, Chennai, In
 * Mr. Anand Jacob Verghese (Pro-Chancellor, Hindustan University)
 * Dr. K. Sarukesi (Vice-Chancellor, Hindustan University)
 
-###Conference Organizing Committee:
+### Conference Organizing Committee:
 * Mrs.Sheeba Chander (School of Architecture, Hindustan University): Conference Chair
 * Mrs.Devyani Gangoadhyay (School of Architecture, Hindustan University): Convenor
 * Mr.L.Sathish (School of Architecture, Hindustan University): Co-Convener
