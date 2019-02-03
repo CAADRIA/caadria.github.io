@@ -24,13 +24,13 @@ The scope of this theme is driven by the intention to take in aspects of machine
 
 Within the coverage of the call lies a broad spectrum of approaches ranging from speculative, informal investigations to conventional scientific research, including but not limited to the following research and praxis topics. Papers, Posters, Roundtable, Workshops, & Postgraduate Student Consortium must address the conference theme 'Informed & Intelligent'.
 
-<div align="centr">
-__Intelligence__ <br />
-Human   .   Artificial   .   City   .   Heritage   .   Indigenous <br />
-__Information__ <br />
-Contextual   .   Cultural   .   Historical   .   Computational <br />
+<div align="center">
+__Intelligence__<br />
+Human . Artificial . City . Heritage . Indigenous<br />
+__Information__<br />
+Contextual . Cultural . Historical . Computational<br />
 & <br />
-Security   .  Sharing   .   Reliability   .   Additionality <br />
+Security . Sharing . Reliability . Additionality<br />
 </div>
 
 ## Paper Submissions
@@ -96,7 +96,6 @@ Applications consist of:
 Young CAADRIA Awards are funded by CAADRIA, given by a committee jointly by CAADRIA, the Paper Selection Committee, and the Conference Host and will be decided by them after the acceptance of papers. Awards will be applied to conference registration fees and are not transferable (e.g. awardees cannot assign them to co-authors). If an awardee does not attend the conference, no award will be given. Open to full or part-time registered students (PhD or Masters or undergraduate), chosen before the conference, winners exempt from paying registration fees. The student applies for award if the paper is selected for inclusion into the conference. Chosen on the merit of abstract, contribution and relevance to CAADRIA and demonstrated depth of research interest.
 
 __Criteria__
-
 - Clarity of concept
 - Understanding of context
 - Quality of writing
@@ -105,7 +104,6 @@ __Criteria__
 - Typically only one student per university per year.
 
 __Application__
-
 * Submission Deadline: 30th January 2019
 * Submission via email: psc@caadria-review.org
 * CV, list of publications, accepted paper and other supporting documents.
