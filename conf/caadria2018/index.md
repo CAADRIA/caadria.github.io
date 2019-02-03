@@ -34,6 +34,6 @@ School of Architecture, Tsinghua University & DADA, Beijing, China
 ### Postgraduate Student Consortium
 * Dagmar Reinhardt, Chair (Australia)
 
-&rarr; [Find all CAADRIA 2018 papers on CuminCAD](ttp://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2018)
+&rarr; [Find all CAADRIA 2018 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2018)
 
 &rarr; CuminCAD bibliographic information
