@@ -11,7 +11,7 @@ title: Officers
 
 * President: Christiane Herr (Xi'an Jiaotong-Liverpool University, China)
   * president@caadria.org
-* Secretary: Walaiporn Nakapan (Rangsit University, Thailand) |
+* Secretary: Walaiporn Nakapan (Rangsit University, Thailand)
   * secretary@caadria.org
 * Treasurer: Wei Xin Huang (Tsinghua University, China)
   * treasurer@caadria.org
