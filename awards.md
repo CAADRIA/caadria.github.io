@@ -13,7 +13,7 @@ title: Awards
 * [Best Presentation Award](#best-presentation-award)
 * [Yound CAADRIA Award](#yound-caadria-award)
 
-## SASADA AWARD
+# SASADA AWARD
 &rarr; [Sasada Award Recipients](award-sasada.md)
 
 The Sasada Award is instituted in the memory of Prof. Tsuyoshi Sasada (1941-2005), former Professor of Osaka University, co-founder and Fellow of CAADRIA, a prolific researcher and teacher from whose lab over 200 students have graduated, and better known as "Tee" in the community.
@@ -34,7 +34,7 @@ The Sasada Award will be announced and presented at the CAADRIA conference. The 
 
 ----
 
-## BEST PAPER AWARD
+# BEST PAPER AWARD
 &rarr; [Best Paper Award Recipients](award-recipients.md#best-paper-award)
 
 All papers printed in proceedings and presented at the conference are eligible and automatically taken into consideration. The following criteria will be taken in consideration for the selection of the Best Paper Award:
@@ -51,7 +51,7 @@ CAADRIA's Best Paper Award Committee is organized by [CAADRIA's Exco member](off
 
 ----
 
-## BEST PRESENTATION AWARD
+# BEST PRESENTATION AWARD
 &rarr; [Best Presentation Award Recipients](award-recipients.md#best-presentation-award)
 
 All papers printed in proceedings and presented at the conference are eligible and automatically taken into consideration. The following criteria will be taken in consideration for the selection of the Best Presentation Award:
@@ -66,7 +66,7 @@ CAADRIA's Best Presentation Award Committee is organized by [CAADRIA's Exco memb
 
 ----
 
-## YOUNG CAADRIA AWARD
+# YOUNG CAADRIA AWARD
 &rarr; [Young CAADRIA Award Recipients](award-recipients.md#young-caadria-award)
 
 Young CAADRIA Awards are funded by CAADRIA, given by a committee jointly by CAADRIA, the Paper Selection Committee, and the Conference Host and will be decided by them after the acceptance of papers. Awards will be applied to conference registration fees and are not transferable (e.g. awardees can not assign them to co-authors). If an awardee does not attend the conference no award will be given.
