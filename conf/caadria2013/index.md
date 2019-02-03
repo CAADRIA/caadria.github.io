@@ -31,6 +31,6 @@ Department of Architecture, National University Singapore, Singapore
 * Ji-Hyun Lee
 * Andrew Li
 
-&rarr; [Find all CAADRIA 2013 papers on CuminCAD](ttp://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2013)
+&rarr; [Find all CAADRIA 2013 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2013)
 
 &rarr; CuminCAD bibliographic information
