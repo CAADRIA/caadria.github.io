@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CAADRIA 2010
-subtitle: The 15th Conference on Computer-Aided Architectural Design Research in Asia
+subtitle: The 15th Conference on Computer-Aided Architectural Design Research in Asia, 2010, Hong Kong
 ---
 
 # New Frontiers
@@ -30,6 +30,6 @@ The School of Architecture & Institute of Space & Earth Information Science at t
 * Prof. Thomas Fischer (Institute of Creative Industry Design, NCKU)
 * Dr. Christiane Herr (Department of Architecture, NCKU)
 
-&rarr; Find all CAADRIA 2010 papers on CuminCAD
+&rarr; [Find all CAADRIA 2010 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2010)
 
 &rarr; CuminCAD bibliographic information
