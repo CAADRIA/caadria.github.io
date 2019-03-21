@@ -56,11 +56,11 @@ CAADRIA's Best Paper Award Committee is organized by [CAADRIA's Exco member](off
 
 All papers printed in proceedings and presented at the conference are eligible and automatically taken into consideration. The following criteria will be taken in consideration for the selection of the Best Presentation Award:
 
-* Good use of time, well paced
-* Good use of appropriate media (projected images or paper/board based as needed; good images, not too much text, video or animation if needed)
-* Well delivered (speak to audience, register their reactions etc)
-* Contribution and relevance to CAADRIA
-* Questions handled well
+* Visual (appropriate media, visually pleasing, good images, not too much text)
+* Oral (intonation, speak to audience, register their reactions)
+* Timing (finishes in time, well paced)
+* Structure (logical buildup, easy to follow, story)
+* Q&A (questions handled well, if any)
 
 CAADRIA's Best Presentation Award Committee is organized by [CAADRIA's Exco member](officers.md) in charge of awards in collaboration with the Paper Selection Committee. The Award Committee is supported by two conference attendees who are appropriately qualified and have a good track record in publication in the field.
 
