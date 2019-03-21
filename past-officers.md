@@ -47,7 +47,7 @@ title: Past Officers
 ### Conference Committee Chair/members
 
 #### 2017-18
-* Award/Scholarship Committee Chair: Tomohiro Fukuda
+* Award/Scholarship Committee Chair: Rudi Stouffs
   * Young CAADRIA Award Committee: Hyunsoo Lee, Tomohiro Fukuda, Weiguo Xu, Rudi Stouffs
   * Best Paper Award Committee: Tomohiro Fukuda, Abel Tablada de la Torre, Jin Kook Lee
   * Best Presentation Award Committee: Rudi Stouffs, Christiane Herr, Kyung Hoon Hyun, Eon Yong Kim, Felix Raspall, Chin Koi Khoo
