@@ -2,7 +2,7 @@
 layout: post
 title: Open Call-Artificial Realities
 date: 2019-03-30
-tags: [Conference, eCAADe, SIGraDi, CFP]
+tags: [Conference, AI, CFP]
 ---
 
 # Open Call: Artificial Realities – Virtual as an Aesthetic Medium in Architecture Ideation, Lisbon Architecture Triennale 2019
