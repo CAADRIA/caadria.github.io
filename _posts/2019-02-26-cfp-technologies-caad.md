@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [CFP] Technologies Special Issue CAAD
+title: Technologies Special Issue CAAD CFP
 date: 2019-02-26
 tags: [Journal, CFP]
 ---
