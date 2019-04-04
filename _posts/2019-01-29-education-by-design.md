@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reynolds Symposium: Education by Design 2019 - CFP
+title: Reynolds Symposium - Education by Design 2019 - CFP
 date: 2019-01-29
 tags: [Symposium, Education, CFP]
 ---
