@@ -5,7 +5,7 @@ date: 2019-02-25
 tags: [Conference, CFP]
 ---
 
-CFP from the organizing committee of ASA 2019- 53rd International Conference of Architectural Science Association.
+## CFP from the organizing committee of ASA 2019- 53rd International Conference of Architectural Science Association.
 
 As past years, International Conference of ASA will be organized from 28-30th of November 2019 at IIT Roorkee, India. ANZSCA (ASA), the organization which promotes ASA conferences, is an international organization, the objective of which is to promote architectural science, theory and practice primarily in relation to teaching and research in institutions of higher education. It has a membership of several thousand professionals, academics and students from many countries. Through international conference every year, ASA enables them to meet, discuss, and exchange information about their research and teaching.
 
