@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Open Call-Artificial Realities
+title: Artificial Realities at Lisbon Architecture Triennale 2019 - Open Call
 date: 2019-03-30
 tags: [Conference, AI, CFP]
 ---
