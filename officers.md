@@ -7,28 +7,41 @@ title: Officers
  <a href="/about">About</a> | <a href="/awards">Awards</a> | <a href="/charter">Charter</a> | Officers
 </div>
 
-## EXCO Members
+## CAADRIA Officers
 
-* President: Christiane Herr (Xi'an Jiaotong-Liverpool University, China)
+* President: Christiane M Herr (*Xi'an Jiaotong-Liverpool University, China*)
   * president@caadria.org
-* Secretary: Walaiporn Nakapan (Rangsit University, Thailand)
+* Secretary: Walaiporn Nakapan (*Rangsit University, Thailand*)
   * secretary@caadria.org
-* Treasurer: Wei Xin Huang (Tsinghua University, China)
+* Treasurer: Wei Xin Huang (*Tsinghua University, China*)
   * treasurer@caadria.org
-* Membership Officer: Tian Tian Lo (Victoria University of Wellington, New Zealand)
+* Membership Officer: Tian Tian Lo (*Harbin Institute of Technology (ShenZhen), China*)
   * membership@caadria.org
+* Web Master: Kyung Hoon Hyun (*Hanyang University, Korea*) 
+  * webmaster@caadria.org
+* Publication Officer: Jin Kook Lee (*Yonsei University, Korea*)
+* Administrative Officer: Marc Aurel Schnabel (*Victoria University of Wellington, New Zealand*)
 * Award/Scholarship Committee Chair: Rudi Stouffs (National University of Singapore, Singapore)
 * Outreach Officer: TBC
-* Communication Officer: TBC
 * Organization Officer: TBC
-* Publication Officer: TBC
-* Web Master: Kyung Hoon Hyun (Hanyang University, Korea)
-  * webmaster@caadria.org
 
-## CAADRIA Committees
-  * TBC
+#### Award/Scholarship Committee:
+* Rudi Stouffs (National University of Singapore, Singapore), Stylianos Dritsas
 
-## Honorary Advisors
-  * TBC
+#### Paper Selection Committee:  
+* Matthias Hank Haeusler (Chair), Marc Aurel Schnabel & Tomohiro Fukuda 
+
+#### PG Students Consortium:  
+* Christiane M Herr (Chair), Rudi Stouffs & Dagmar Reinhardt 
+
+#### Sasada Prize Committee:  
+* Tom Kvan (Chair), Christiane Herr, Atsuko Kaga 
+
+#### Young CAADRIA Award Committee:  
+* Christiane M Herr (Chair), Andre Brown and Matthias Hank Haeusler
+
+## CAADRIA FELLOWS
+* John Gero (George Mason University, USA)
+* Thomas Kvan (The University of Melbourne, Australia)
 
 &rarr; [Past Officers](past-officers.md)
