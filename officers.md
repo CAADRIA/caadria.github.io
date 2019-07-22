@@ -18,7 +18,7 @@ title: Officers
 * Membership Officer: Tian Tian Lo (*Harbin Institute of Technology (ShenZhen), China*)
   * membership@caadria.org
 * Web Master: Kyung Hoon Hyun (*Hanyang University, Korea*) 
-  * webmaster@caadria.org test test
+  * webmaster@caadria.org
 * Publication Officer: Jin Kook Lee (*Yonsei University, Korea*)
 * Administrative Officer: Marc Aurel Schnabel (*Victoria University of Wellington, New Zealand*)
 * Award/Scholarship Committee Chair: Rudi Stouffs (*National University of Singapore, Singapore*)
