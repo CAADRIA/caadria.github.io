@@ -3,6 +3,7 @@ layout: page
 title: Past Conferences
 ---
 
+<a href="/conf/caadria2019/"><img src="/conf/img/caadria_thumbnail_2019.jpg" width="180" /></a>
 <a href="/conf/caadria2018/"><img src="/conf/img/caadria_thumbnail_2018.jpg" width="180" /></a> 
 <a href="/conf/caadria2017/"><img src="/conf/img/caadria_thumbnail_2017.jpg" width="180" /></a> 
 <a href="/conf/caadria2016/"><img src="/conf/img/caadria_thumbnail_2016.jpg" width="180" /></a> 
