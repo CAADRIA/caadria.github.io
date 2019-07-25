@@ -12,27 +12,33 @@ subtitle: The 24th Conference on Computer-Aided Architectural Design Research in
 Faculty of Architecture & Design, Victoria University of Wellington, Wellington, New Zealand
 
 ### Conference Organizing Committee
-* Weiguo Xu (Chair)
-* Weixin Huang
-* Yuguang Liu
-* Yufang Zhou Feng Xu
-* Lei Yu
+* Andre Brown
+* Marc Aurel Schnabel, Chair
+* Tane Moleta
+* Jessie Rogers
+* Tina Le Phan
+* David Silcock
+* Austin D'Souza
+* Yingge Schnabel
+* Chiara Shim
+* Hannah Rushton
+* Iman Sayah
+* Kirstin Va'a
+* Sarah Lanigan
+* Mark Shaw
+* Paul Hillier
+* Tim Miller
 
 ### Paper Selection Committee
-* Tomohiro Fukuda, Chair (Japan)
-* Weixin Huang (China)
-* Patrick Janssen (Singapore)
-* Sawako Kaijima (Singapore)
-* Kristof Crolla (Hong Kong)
-
-### Short Paper Selection Committee
-* Weixin Huang, Chair (China)
-* Mani Williams (Australia)
-* Dan Luo (China)
-* YiXin Wu (Taiwan)
+* Matthias Hank Haeusler, Chair (Australia)
+* Marc Aurel Schnabel (New Zealand)
+* Tomohiro Fukuda (Japan)
+* Gabriel Wurzer
 
 ### Postgraduate Student Consortium
-* Dagmar Reinhardt, Chair (Australia)
+* Christiane Herr, Chair (China)
+* Dagmar Reinhard (Australia)
+* Rudi Stouffs (Singapore)
 
 &rarr; [Find all CAADRIA 2019 papers on CuminCAD](http://papers.cumincad.org/cgi-bin/works/Search?search=series%3ACAADRIA+year%3A2019)
 
