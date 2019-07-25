@@ -1,7 +1,7 @@
 ---
 layout: page
-title: INTELLIGENT & INFORMED
-subtitle: The 24th Annual Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2019)
+title: RE: Anthropocene - Design in the Age of Humans
+subtitle: The 25th Annual Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2020)
 ---
 
 <div align="center">
@@ -12,8 +12,8 @@ Chulalongkorn University, Faculty of Architecture, Thailand <br />
 <br />
 </div>
 
-* Abstracts due by 15 Sep 2019
-* Full Papers due by 6 Dec 2019
+* Abstracts due by 15th Sep 2019
+* Full Papers due by 6th Dec 2019
 
 
 What if we are already in the Anthropocene epoch where the function of the Earth system is being impacted by human activities? What if our actions indeed are significant enough to have a critical force on the Earth as a system? The term Anthropocene (the Age of Humans) has gained increasing recognition as a description of a crucial geological stage of our planet as we face the consequences of our own events on the earth’s ecosystem. While we are beginning to address the predominant challenges of sustainability and ecology, the environments we built have also shaped our behaviours.
