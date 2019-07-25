@@ -1,8 +1,10 @@
+
 ---
 layout: page
-title: RE: Anthropocene
-subtitle: The 25th Annual Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2020)
+title: INTELLIGENT & INFORMED
+subtitle: The 24th Annual Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2019)
 ---
+
 
 <div align="center">
 <a href="http://www.caadria2020.org">www.caadria2020.org</a><br />
