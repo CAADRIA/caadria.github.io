@@ -1,6 +1,6 @@
 ---
 layout: page
-title: RE
+title: RE: ANTHROPOCENE - DESIGN IN THE AGE OF HUMANS
 subtitle: The 25th Annual Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2020)
 ---
 
