@@ -48,8 +48,8 @@ title-img: /img/CAADRIA_Logo_Icon_compact.png
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F0FF56" # was FFFFCC, F5F5F5
-navbar-text-col: "#404040"
+navbar-col: "#4D4E4F" # was F0FF56, FFFFCC, F5F5F5
+navbar-text-col: "#FFFFFF" #was 404040
 navbar-children-col: "#F1FF89" # was F5F5F5
 page-col: "#FFFFFF"
 link-col: "#4272D1" # was 008080, 008AFF
