@@ -36,7 +36,7 @@ __Papers__: Full papers will be subject to a double-blind peer review of full-le
 
 Submission details, style and format are listed at the Submission page. Publication of the paper will be subject to review acceptance, to compliance with submission deadlines and formatting guidelines, and to the payment of the conference registration fee. The conference must be attended in person.
 
-* Submission via <a href="Submission Page">http://caadria.org/openconf/openconf.php</a>
+* Submission via <a href="http://caadria.org/openconf/openconf.php">Submission Page</a>
 * Abstract Submission Deadline: 15th September 2019
 * Full Paper Submission Deadline: 06th December 2019
 
