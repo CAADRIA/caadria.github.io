@@ -40,34 +40,37 @@ Submission details, style and format are listed at the Submission page. Publicat
 * Abstract Submission Deadline: 15th September 2019
 * Full Paper Submission Deadline: 06th December 2019
 
+## Young CAADRIA Award
+
+* Young CAADRIA Award Submission: 15 February 2020
+
+## Postgraduate Student Consortium
+
+* Postgraduate Student Consortium Submission: 15 February 2020
+* For young researchers currently involved in postgraduate studies; submission of work-in-progress research papers to: psc@caadria.org
+
+## Pre-Conference Workshops
+
+* CAADRIA2020 Pre-Conference Workshop Proposals: 15th February 2020
+* CAADRIA2020 Pre-Conference Workshop Acceptance: 29th February 2020
+* For workshop proposal submission, please contact: caadria2020@gmail.com
+
 ## Poster Submissions
 
 * Poster Submission: 15th January 2020
 * Notification of Poster Acceptance: 15th February 2020
 * For poster submission, please contact: caadria2020@gmail.com
 
-## Workshop Submissions
 
-* CAADRIA2020 Pre-Conference Workshop Proposals: 15th February 2020
-* CAADRIA2020 Pre-Conference Workshop Acceptance: 29th February 2020
-* For workshop proposal submission, please contact: caadria2020@gmail.com
 
-## Postgraduate Student Consortium Submissions
-* Postgraduate Student Consortium Submission: 15 February 2020
-* For young researchers currently involved in postgraduate studies; submission of work-in-progress research papers to: psc@caadria.org
-
-## Young CAADRIA Award
-Young CAADRIA Awards are funded by CAADRIA, given by a committee jointly by CAADRIA, the Paper Selection Committee, and the Conference Host and will be decided by them after the acceptance of papers. Awards will be applied to conference registration fees and are not transferable (e.g. awardees cannot assign them to co-authors). If an awardee does not attend the conference, no award will be given. Open to full or part-time registered students (PhD or Masters or undergraduate), chosen before the conference, winners exempt from paying registration fees. The student applies for award if the paper is selected for inclusion into the conference. Chosen on the merit of abstract, contribution and relevance to CAADRIA and demonstrated depth of research interest.
-
-* Young CAADRIA Award Submission: 15 February 2020
 
 ----
 ### Contact
 
-INDA International Program in Design and Architecture \
-Room 409 Faculty of Architecture Chulalongkorn University, \
-Phayathai Rd, Pathum Wan, Pathum Wan District, \
-Bangkok 10330 \
-Thailand \
-P: +662 218 4330 \
-E: caadria2020@gmail.com
+INDA International Program in Design and Architecture <br />
+Room 409 Faculty of Architecture Chulalongkorn University <br />
+Phayathai Rd, Pathum Wan, Pathum Wan District <br />
+Bangkok 10330 <br />
+Thailand <br />
+P: +662 218 4330 <br />
+E: caadria2020@gmail.com <br />
