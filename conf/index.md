@@ -44,16 +44,19 @@ Submission details, style and format are listed at the Submission page. Publicat
 
 * Young CAADRIA Award Submission: 15 February 2020
 
+
 ## Postgraduate Student Consortium
 
 * Postgraduate Student Consortium Submission: 15 February 2020
 * For young researchers currently involved in postgraduate studies; submission of work-in-progress research papers to: psc@caadria.org
+
 
 ## Pre-Conference Workshops
 
 * CAADRIA2020 Pre-Conference Workshop Proposals: 15th February 2020
 * CAADRIA2020 Pre-Conference Workshop Acceptance: 29th February 2020
 * For workshop proposal submission, please contact: caadria2020@gmail.com
+
 
 ## Poster Submissions
 
