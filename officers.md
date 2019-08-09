@@ -23,8 +23,8 @@ title: Officers
 * Administrative Officer: Marc Aurel Schnabel (*Victoria University of Wellington, New Zealand*)
 * Award/Scholarship Committee Chair: Rudi Stouffs (*National University of Singapore, Singapore*)
 * Outreach Officer: Jisun Lee (*Yonsei University, South Korea)
-* Organization Officer: Paulina Neisch (*City University of Hong Kong, Hong Kong)
-* Communication Officer: Ruwan Fernando (*Griffith University, Australia)
+* Organization Officer: Paulina Neisch (*City University of Hong Kong, Hong Kong*)
+* Communication Officer: Ruwan Fernando (*Griffith University, Australia*)
 
 #### Award/Scholarship Committee:
 * TBA
