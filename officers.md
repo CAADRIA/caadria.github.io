@@ -19,23 +19,24 @@ title: Officers
   * membership@caadria.org
 * Web Master: Kyung Hoon Hyun (*Hanyang University, Korea*) 
   * webmaster@caadria.org
-* Publication Officer: Jin Kook Lee (*Yonsei University, Korea*)
+* Publication Officer: TBA
 * Administrative Officer: Marc Aurel Schnabel (*Victoria University of Wellington, New Zealand*)
 * Award/Scholarship Committee Chair: Rudi Stouffs (*National University of Singapore, Singapore*)
-* Outreach Officer: TBC
-* Organization Officer: TBC
+* Outreach Officer: Jisun Lee (*Yonsei University, South Korea)
+* Organization Officer: Paulina Neisch (*City University of Hong Kong, Hong Kong)
+* Communication Officer: Ruwan Fernando (*Griffith University, Australia)
 
 #### Award/Scholarship Committee:
-* Rudi Stouffs (National University of Singapore, Singapore), Stylianos Dritsas
+* TBA
 
 #### Paper Selection Committee:  
-* Matthias Hank Haeusler (Chair), Marc Aurel Schnabel & Tomohiro Fukuda 
+* Dominik Holzer (Chair), Walaiporn Nakapan, Anastasia Globa, Immanuel Koh
 
 #### PG Students Consortium:  
 * Christiane M Herr (Chair), Rudi Stouffs & Dagmar Reinhardt 
 
 #### Sasada Prize Committee:  
-* Tom Kvan (Chair), Christiane Herr, Atsuko Kaga 
+* Tom Kvan (Chair), Christiane Herr, Atsuko Kaga
 
 #### Young CAADRIA Award Committee:  
 * Christiane M Herr (Chair), Andre Brown and Matthias Hank Haeusler
