@@ -19,7 +19,7 @@ title: Officers
   * membership@caadria.org
 * Web Master: Kyung Hoon Hyun (*Hanyang University, Korea*) 
   * webmaster@caadria.org
-* Publication Officer: TBA
+* Publication Officer: Kensuke Hotta (*Keio University, Tokyo*)
 * Administrative Officer: Marc Aurel Schnabel (*Victoria University of Wellington, New Zealand*)
 * Award/Scholarship Committee Chair: Rudi Stouffs (*National University of Singapore, Singapore*)
 * Outreach Officer: Jisun Lee (*Yonsei University, South Korea*)
