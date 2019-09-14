@@ -12,7 +12,7 @@ Chulalongkorn University, Faculty of Architecture, Thailand <br />
 <br />
 </div>
 
-* Abstracts due by 15th Sep 2019
+* Abstracts due by 22th Sep 2019
 * Full Papers due by 06th Dec 2019
 
 
@@ -37,7 +37,7 @@ __Papers__: Full papers will be subject to a double-blind peer review of full-le
 Submission details, style and format are listed at the Submission page. Publication of the paper will be subject to review acceptance, to compliance with submission deadlines and formatting guidelines, and to the payment of the conference registration fee. The conference must be attended in person.
 
 * Submission via <a href="http://caadria.org/openconf/openconf.php">Submission Page</a>
-* Abstract Submission Deadline: 15th September 2019
+* Abstract Submission Deadline: 22th September 2019
 * Full Paper Submission Deadline: 06th December 2019
 <br />
 
