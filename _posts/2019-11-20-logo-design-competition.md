@@ -9,7 +9,7 @@ tags: [Conference, AI, CFP]
 
 * 25th CAADRIA, 7-10 April 2020 Bangkok, Thailand
 * Submission deadline: February 3rd 2020
-* Notification of results: February 17rd 2020
+* Notification of results: February 17th 2020
 * Submit your complete entries or enquiries by email to (Submission limited to 20 MB): <a href="mailto:CAADRIA.logo25@gmail.com">CAADRIA.logo25@gmail.com</a>
 
 <img src="/img/CAADRIA-logo-competition-1113-small.jpg">
