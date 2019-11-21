@@ -12,7 +12,8 @@ tags: [Conference, AI, CFP]
 * Website - [http://istar.iscte-iul.pt/artificialrealities/](http://istar.iscte-iul.pt/artificialrealities/)
 
 ![My helpful screenshot]("caadria.github.io/img/CAADRIA-logo-competition-1113-small.jpg")
- 
+("/img/CAADRIA-logo-competition-1113-small.jpg")
+bigimg: ("/img/CAADRIA-logo-competition-1113-small.jpg")
 
 
 
