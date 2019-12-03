@@ -38,7 +38,7 @@ Submission details, style and format are listed at the Submission page. Publicat
 
 * Submission via <a href="http://caadria.org/openconf/openconf.php">Submission Page</a>
 * Abstract Submission Deadline: 22th September 2019
-* Full Paper Submission Deadline: 06th December 2019
+* Full Paper Submission Deadline: 13th December 2019 (Extended)
 <br />
 
 ## Young CAADRIA Award
