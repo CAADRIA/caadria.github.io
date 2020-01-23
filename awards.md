@@ -15,7 +15,6 @@ title: Awards
 
 
 # YOUNG CAADRIA AWARD
-&rarr; [Young CAADRIA Award Recipients](award-recipients.md#young-caadria-award)
 
 Young CAADRIA Awards are funded by CAADRIA, given by a committee jointly by CAADRIA, the Paper Selection Committee, and the Conference Host and will be decided by them after the acceptance of papers. Awards will be applied to conference registration fees and are not transferable (e.g. awardees can not assign them to co-authors). If an awardee does not attend the conference no award will be given.
 
@@ -34,10 +33,11 @@ Young CAADRIA Awards are funded by CAADRIA, given by a committee jointly by CAAD
 
 Application materials: your CV, list of publications, your accepted paper and other supporting documents.
 
+&rarr; [Young CAADRIA Award Recipients](award-recipients.md#young-caadria-award)
+
 ----
 
 # BEST PAPER AWARD
-&rarr; [Best Paper Award Recipients](award-recipients.md#best-paper-award)
 
 All papers printed in proceedings and presented at the conference are eligible and automatically taken into consideration. The following criteria will be taken in consideration for the selection of the Best Paper Award:
 
@@ -51,10 +51,11 @@ All papers printed in proceedings and presented at the conference are eligible a
 
 CAADRIA's Best Paper Award Committee is organized by [CAADRIA's Exco member](officers.md) in charge of awards in collaboration with the Paper Selection Committee. The Award Committee is supported by two conference attendees who are appropriately qualified and have a good track record in publication in the field.
 
+&rarr; [Best Paper Award Recipients](award-recipients.md#best-paper-award)
+
 ----
 
 # BEST PRESENTATION AWARD
-&rarr; [Best Presentation Award Recipients](award-recipients.md#best-presentation-award)
 
 All papers printed in proceedings and presented at the conference are eligible and automatically taken into consideration. The following criteria will be taken in consideration for the selection of the Best Presentation Award:
 
@@ -65,6 +66,8 @@ All papers printed in proceedings and presented at the conference are eligible a
 * Q&A (questions handled well, if any)
 
 CAADRIA's Best Presentation Award Committee is organized by [CAADRIA's Exco member](officers.md) in charge of awards in collaboration with the Paper Selection Committee. The Award Committee is supported by two conference attendees who are appropriately qualified and have a good track record in publication in the field.
+
+&rarr; [Best Presentation Award Recipients](award-recipients.md#best-presentation-award)
 
 ----
 
