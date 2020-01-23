@@ -11,7 +11,7 @@ title: Awards
 * [Yound CAADRIA Award](#yound-caadria-award)
 * [Best Paper Award](#best-paper-award)
 * [Best Presentation Award](#best-presentation-award)
-* [Sasada Prize](#sasada-award)
+* [Sasada Prize](#sasada-prize)
 
 
 # YOUNG CAADRIA AWARD
