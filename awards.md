@@ -68,7 +68,7 @@ CAADRIA's Best Presentation Award Committee is organized by [CAADRIA's Exco memb
 
 ----
 
-# SASADA Prize
+# Sasada Prize
 
 From 2019, the Sasada Prize follows the discontinued Sasada Award (awarded from 2007 until 2016), which was instituted in the memory of Prof. Tsuyoshi Sasada (1941-2005), former Professor of Osaka University, co-founder and Fellow of CAADRIA, a prolific researcher and teacher from whose lab over 200 students have graduated, and better known as “Tee” in the community.
 
