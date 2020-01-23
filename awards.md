@@ -69,18 +69,20 @@ CAADRIA's Best Presentation Award Committee is organized by [CAADRIA's Exco memb
 ----
 
 # SASADA Prize
-&rarr; [Sasada Prize Recipients](award-sasada.md)
 
-The Sasada Award is instituted in the memory of Prof. Tsuyoshi Sasada (1941-2005), former Professor of Osaka University, co-founder and Fellow of CAADRIA, a prolific researcher and teacher from whose lab over 200 students have graduated, and better known as "Tee" in the community.
+From 2019, the Sasada Prize follows the discontinued Sasada Award (awarded from 2007 until 2016), which was instituted in the memory of Prof. Tsuyoshi Sasada (1941-2005), former Professor of Osaka University, co-founder and Fellow of CAADRIA, a prolific researcher and teacher from whose lab over 200 students have graduated, and better known as “Tee” in the community.
 
-The Sasada Award will be given to an individual whose sustained record of contributions demonstrates or promises significant impact on the field of computer aided design. In keeping with Tee's spirit, the award recipient will have contributed to the next generation of researchers and academics, to the wider profession and practice in computer aided design and research, and earned recognition in peer community.
+The Sasada Prize carries no monetary award. From 2019, the annual Sasada Prize will be given to an individual whose sustained record of contributions demonstrates or promises significant impact on the field of computer aided design. In keeping with Tee’s spirit, the award recipient will have contributed to the next generation of researchers and academics, to the wider profession and practice in computer aided design and research, and earned recognition in peer community.
 
 The Award will be decided by a selection committee comprising
 
-* One member from the Osaka Lab (Prof. Atsuko Kaga, Osaka University)
-* One collaborator or colleague of Tee (Prof. Alleppo Liu, Asia University)
-* One CAADRIA Fellow, who will act as chairman (Prof. Tom Kvan, University of Melbourne)
-* Current president
+One member from the Osaka Lab (Prof. Atsuko Kaga, Osaka University)
+One CAADRIA Fellow, who will act as chairman (Prof. Tom Kvan, University of Melbourne)
+Current CAADRIA president
+
+The Sasada Prize will be announced and presented at the CAADRIA conference.
+
+&rarr; [Sasada Prize Recipients](award-sasada.md)
 
 ### Call for Nominations
 The Sasada award is made biannually; the next award will be made in 2018. Nominations should be submitted to Prof. Atsuko Kaga, by contacting sasada@caadria.org, by 30 November 2017. The submissions should include annotated CV with a covering statement as attachments via email. The Award Committee may solicit nominations at its discretion. The committee will make its selection during the following months. The committee may choose to defer the Award in any year for unspecified reasons.
