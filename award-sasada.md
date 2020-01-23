@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Sasada Award
+title: Sasada Prize
 ---
 
-The Sasada Award honors the late Prof. Tsuyoshi Sasada (1941-2005), formerly Professor of Osaka University, and co-founder and Fellow of CAADRIA. It is given to someone who has contributed to the next generation of researchers and academics, to the wider profession and practice in computer-aided design and research, and earned recognition in the peer community. The recipient spends a week in residence at Osaka University.
+The Sasada Prize honors the late Prof. Tsuyoshi Sasada (1941-2005), formerly Professor of Osaka University, and co-founder and Fellow of CAADRIA. It is given to someone who has contributed to the next generation of researchers and academics, to the wider profession and practice in computer-aided design and research, and earned recognition in the peer community. The recipient spends a week in residence at Osaka University.
 
-# Award Recipients
+# Sasada Prize Recipients
 
 ### 2019. Professor Ji-Hyun Lee
 <img src="/img/Lee_JiHyun.jpg" width="150" align="right" />
 Ji-Hyun Lee is an Associate Professor at the Graduate School of Culture Technology in KAIST. She received her Ph.D. in School of Architecture (Computational Design) at Carnegie Mellon University writing a thesis about integrating housing design and case-based reasoning. Since joining the GSCT at KAIST, her research focus narrowed down to three interdisciplinary areas that are not mutually exclusive: (1) calculation for UX + service design, (2) cultural DNA with morphological analysis, and (3) computational creativity. These explorations result in computer-based frameworks or systems contributing to the enhancement of the calculability using algorithmic and/or heuristic computational methods. In other words, her research focus is on 'computational culture' as an extension of computational design. She served for the Secretary of Computer-Aided Architectural Design Research in Asia (CAADRIA) from 2008 to 2010. Currently, she is the Director of the Information-Based Design (IBD) Research Group in KAIST. She also serves as an Editor-in-chief of Korea Institute of Design Research Society (KIDRS), a Director of Korean Society of Service Design and Innovation (KSSDI), Korean Society of Design Science (KSDS) and HCI Korea (KHCI). She is a Task Force member of IEEE CIS ISATC: Intelligent Adaptive Fault Tolerant Control, Optimization and Reliability and a member of AIK, KIISS, Society of Computational Design & Engineering and SIG-Design Creativity of the Design Society.
+
+# Sasada Award Recipients
 
 ### 2016. Professor Jin-Yu Tsou
 <img src="/img/TSOU_Jinyeu.jpg" width="150" align="right" />
