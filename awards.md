@@ -85,7 +85,7 @@ Current CAADRIA president
 
 The Sasada Prize will be announced and presented at the CAADRIA conference.
 
-&rarr; [Sasada Prize Recipients](award-sasada.md)
+&rarr; [Sasada Prize and Sasada Award Recipients](award-sasada.md)
 
 ### Call for Nominations
 The Sasada award is made biannually; the next award will be made in 2018. Nominations should be submitted to Prof. Atsuko Kaga, by contacting sasada@caadria.org, by 30 November 2017. The submissions should include annotated CV with a covering statement as attachments via email. The Award Committee may solicit nominations at its discretion. The committee will make its selection during the following months. The committee may choose to defer the Award in any year for unspecified reasons.
