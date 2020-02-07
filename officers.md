@@ -42,7 +42,9 @@ title: Officers
 * Christiane M Herr (Chair), Andre Brown and Matthias Hank Haeusler
 
 ## CAADRIA FELLOWS
-* John Gero (George Mason University, USA)
-* Thomas Kvan (The University of Melbourne, Australia)
+* Tomohiro Fukuda (Osaka University, Japan)
+* John Gero (University of North Carolina, USA)
+* Tom Kvan (University of Melbourne, Australia)
+* Marc Aurel Schnabel (Victoria University of Wellington, New Zealand)
 
 &rarr; [Past Officers](past-officers.md)
