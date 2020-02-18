@@ -7,7 +7,7 @@ subtitle: The 25th Annual Conference of the Association for Computer-Aided Archi
 <div align="center">
 <a href="http://www.caadria2020.org">www.caadria2020.org</a><br />
 <br />
-5th (Tuesday) - 8th (Friday) August, 2020 <br />
+5th (Wednesday) - 8th (Saturday) August, 2020 <br />
 Chulalongkorn University, Faculty of Architecture, Thailand <br />
 <br />
 </div>
