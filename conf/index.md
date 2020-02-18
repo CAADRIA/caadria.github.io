@@ -7,7 +7,7 @@ subtitle: The 25th Annual Conference of the Association for Computer-Aided Archi
 <div align="center">
 <a href="http://www.caadria2020.org">www.caadria2020.org</a><br />
 <br />
-5th (Wednesday) - 8th (Saturday) August, 2020 <br />
+5 (Wednesday) - 8 (Saturday) August, 2020 <br />
 Chulalongkorn University, Faculty of Architecture, Thailand <br />
 <br />
 </div>
@@ -37,8 +37,10 @@ __Papers__: Full papers will be subject to a double-blind peer review of full-le
 Submission details, style and format are listed at the Submission page. Publication of the paper will be subject to review acceptance, to compliance with submission deadlines and formatting guidelines, and to the payment of the conference registration fee. The conference must be attended in person.
 
 * Submission via <a href="http://caadria.org/openconf/openconf.php">Submission Page</a>
-* Abstract Submission Deadline: 22th September 2019
-* Full Paper Submission Deadline: 13th December 2019 (Extended)
+* Abstract Submission Deadline: 22 September 2019
+* Full Paper Submission Deadline: 13 December 2019 (Extended)
+* Notification of Full Paper Acceptance: 15 January 2020
+* Camera-ready Full Paper Submission: 5 April 2020
 <br />
 
 ## Young CAADRIA Award
@@ -61,8 +63,8 @@ Submission details, style and format are listed at the Submission page. Publicat
 
 ## Poster Submissions
 
-* Poster Submission: 22 April 2020
-* Notification of Poster Acceptance: 29 April 2020
+* Poster Submission: 5 April 2020
+* Notification of Poster Acceptance: Rolling
 * For poster submission, please contact: caadria2020@gmail.com
 <br />
 
