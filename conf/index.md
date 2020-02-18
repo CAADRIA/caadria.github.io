@@ -7,7 +7,7 @@ subtitle: The 25th Annual Conference of the Association for Computer-Aided Archi
 <div align="center">
 <a href="http://www.caadria2020.org">www.caadria2020.org</a><br />
 <br />
-7th (Tuesday) - 10th (Friday) April, 2020 <br />
+5th (Tuesday) - 8th (Friday) August, 2020 <br />
 Chulalongkorn University, Faculty of Architecture, Thailand <br />
 <br />
 </div>
@@ -43,26 +43,26 @@ Submission details, style and format are listed at the Submission page. Publicat
 
 ## Young CAADRIA Award
 
-* Young CAADRIA Award Submission: 15 February 2020
+* Young CAADRIA Award Submission: 10 April 2020
 <br />
 
 ## Postgraduate Student Consortium
 
-* Postgraduate Student Consortium Submission: 15 February 2020
+* Postgraduate Student Consortium Submission: 15 April 2020
 * For young researchers currently involved in postgraduate studies; submission of work-in-progress research papers to: psc@caadria.org
 <br />
 
 ## Pre-Conference Workshops
 
-* CAADRIA2020 Pre-Conference Workshop Proposals: 15th February 2020
-* CAADRIA2020 Pre-Conference Workshop Acceptance: 29th February 2020
+* CAADRIA2020 Pre-Conference Workshop Proposals: 22 April 2020
+* CAADRIA2020 Pre-Conference Workshop Acceptance: 29 April 2020
 * For workshop proposal submission, please contact: caadria2020@gmail.com
 <br />
 
 ## Poster Submissions
 
-* Poster Submission: 15th January 2020
-* Notification of Poster Acceptance: 15th February 2020
+* Poster Submission: 22 April 2020
+* Notification of Poster Acceptance: 29 April 2020
 * For poster submission, please contact: caadria2020@gmail.com
 <br />
 
