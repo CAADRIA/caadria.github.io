@@ -13,7 +13,7 @@ Chulalongkorn University, Faculty of Architecture, Thailand <br />
 </div>
 
 * Abstracts due by 22th Sep 2019
-* Full Papers due by 13th Dec 2019 (Extended)
+* Full Papers due by 13th Dec 2019
 
 
 What if we are already in the Anthropocene epoch where the function of the Earth system is being impacted by human activities? What if our actions indeed are significant enough to have a critical force on the Earth as a system? The term Anthropocene (the Age of Humans) has gained increasing recognition as a description of a crucial geological stage of our planet as we face the consequences of our own events on the earth’s ecosystem. While we are beginning to address the predominant challenges of sustainability and ecology, the environments we built have also shaped our behaviours.
@@ -38,7 +38,7 @@ Submission details, style and format are listed at the Submission page. Publicat
 
 * Submission via <a href="http://caadria.org/openconf/openconf.php">Submission Page</a>
 * Abstract Submission Deadline: 22 September 2019
-* Full Paper Submission Deadline: 13 December 2019 (Extended)
+* Full Paper Submission Deadline: 13 December 2019
 * Notification of Full Paper Acceptance: 15 January 2020
 * Camera-ready Full Paper Submission: 5 April 2020
 <br />
