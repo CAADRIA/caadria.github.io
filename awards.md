@@ -88,6 +88,8 @@ The Sasada Prize will be announced and presented at the CAADRIA conference.
 &rarr; [Sasada Prize and Sasada Award Recipients](award-sasada.md)
 
 ### Call for Nominations
-The Sasada award is made biannually; the next award will be made in 2018. Nominations should be submitted to Prof. Atsuko Kaga, by contacting sasada@caadria.org, by 30 November 2017. The submissions should include annotated CV with a covering statement as attachments via email. The Award Committee may solicit nominations at its discretion. The committee will make its selection during the following months. The committee may choose to defer the Award in any year for unspecified reasons.
+The Sasada Prize is made annually. Nominations should be submitted to Prof. Thomas Kvan, by contacting sasada@caadria.org. The submissions should include annotated CV with a covering statement as attachments via email. The Prize Committee may solicit nominations at its discretion. The committee will announce the Prize at the annual CAADRIA conference. The committee may choose to defer the Prize in any year for unspecified reasons.
 
 The Sasada Award will be announced and presented at the CAADRIA conference. The Award supports the winner to undertake an academic visit at the Osaka Lab and covers some expenses for one week. The Award recipient will be expected to contribute to the academic and research activities at the Osaka Lab in the form of seminars and interaction with research students and staff.
+
+
