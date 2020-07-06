@@ -22,6 +22,7 @@ Supports the President by creating and managing documents, minutes for EXCO meet
 #### Treasurer (ADCO)
 The treasurer takes care of financial matters of the association. The Treasurer must have access to international online payment systems such as PayPal.
 
+##
 
 #### Administrative Officer (EXCO)
 Maintains CAADRIA records, keeps track of best practices and keeps the Association's official documents up to date, advises EXCO on best practice
