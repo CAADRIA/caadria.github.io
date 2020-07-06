@@ -4,7 +4,7 @@ title: About CAADRIA
 ---
 
 <div align="center">
-  About | <a href="/awards">Awards</a> | <a href="/charter">Charter</a> | <a href="/officers">Officers</a>
+ <a href="/about">About</a> | <a href="/awards">Awards</a> | <a href="/charter">Charter</a> | <a href="/officers">Officers</a> | <a href="/officerroles">Officer Roles</a>
 </div>
 
 #### TOC
