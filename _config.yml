@@ -30,6 +30,7 @@ navbar-links:
     - Charter: "charter"
     - Officers: "officers"
     - Past Officers: "past-officers"
+    - Officer Roles: "officerroles"
   Conference:
     - Current Conference: "conf/index"
     - Past Conferences: "conf/past"
