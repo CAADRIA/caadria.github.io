@@ -50,7 +50,7 @@ Liaises with CAADRIA officers and the future host to pass on experiences, expert
 Advises the current president and may take up an Officer role in case of unforeseen incidents, as invited by the current president.
 
 #### Membership Officer (EXCO)
-The Membership Officer takes care of CAADRIA membership questions and prospective sponsors. The Membership Officer collaborates with the Outreach Officer for this purpose.
+The Membership Officer takes care of CAADRIA membership questions and prospective sponsors, collaborating with the Outreach Officer for this purpose. Receives conference participant emails from latest host and updates the CAADRIA membership list in collaboration with the Communications Officer.
 
 #### Outreach Officer (EXCO)
 The Outreach Officer's job centers on public relations to raise interest in CAADRIA and make the association more visible. In collaboration with other officers, looks for potential sponsors. In charge of CAADRIA related SNS (Facebook, WeChat,,,).
@@ -59,7 +59,7 @@ The Outreach Officer's job centers on public relations to raise interest in CAAD
 Initiates and assists CAADRIA initiatives.
 
 #### Paper Selection Committee Chair (EXCO)
-Manages and organises a dedicated Paper Selection Committee, in close collaboration with the CAADRIA conference host.  The PSC Chair works closely with the president and publication officer for a rigorous reviewing process and follow-up journal issues. Ideally, the PSC Chair has been part of a previous PSC. The PSC chair advises the incoming PSC chair.
+Manages and organises a dedicated Paper Selection Committee, in close collaboration with the CAADRIA conference host.  The PSC Chair works closely with the president and publication officer for a rigorous reviewing process and follow-up journal issues. Ideally, the PSC Chair has been part of a previous PSC. The PSC chair advises the incoming PSC chair. The term of the PSC Chair is one year.
 
 #### Postgraduate Student Consortium (PGSC) Chair 
 Manages and organises the annual PGSC in collaboration with the conference host. Advises the ADCO on matters of postgraduate students' interests.
