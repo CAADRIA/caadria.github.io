@@ -24,12 +24,9 @@ So if you would like to nominate someone or nominate yourself, please send in th
 
 Looking forward to hearing from you by e-mail.
 
-Hyunsoo Lee
-
-Election officer 2020
-
-CAADRIA Immediate Past President
-
+Hyunsoo Lee<br>
+Election officer 2020<br>
+CAADRIA Immediate Past President<br>
 Professor, Yonsei University, Korea
 
 
