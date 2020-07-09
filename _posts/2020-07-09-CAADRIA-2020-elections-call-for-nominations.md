@@ -25,8 +25,11 @@ So if you would like to nominate someone or nominate yourself, please send in th
 Looking forward to hearing from you by e-mail.
 
 Hyunsoo Lee
+
 Election officer 2020
+
 CAADRIA Immediate Past President
+
 Professor, Yonsei University, Korea
 
 
