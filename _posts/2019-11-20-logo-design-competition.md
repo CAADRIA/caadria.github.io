@@ -2,7 +2,7 @@
 layout: post
 title: Logo Design Competition - Open Call
 date: 2019-11-20
-tags: [Conference, AI, CFP]
+tags: [Conference, Logo Design, Open Call]
 ---
 
 # Open Call: Logo Design Competition
