@@ -15,7 +15,7 @@ title: Officers
   * secretary@caadria.org
 * Treasurer: Wei Xin Huang (*Tsinghua University, China*)
   * treasurer@caadria.org
-* Membership Officer: Tian Tian Lo (*Harbin Institute of Technology (ShenZhen), China*)
+* Membership Officer: Sky Lo Tian Tian (*Harbin Institute of Technology (ShenZhen), China*)
   * membership@caadria.org
 * Web Master: Kyung Hoon Hyun (*Hanyang University, Korea*) 
   * webmaster@caadria.org
@@ -34,7 +34,7 @@ title: Officers
 * Dominik Holzer (Chair), Walaiporn Nakapan, Anastasia Globa, Immanuel Koh
 
 #### Post Graduate Students Consortium:  
-* Christiane M Herr (Chair), Dagmar Reinhardt and Sky Tian Tian Lo
+* Christiane M Herr (Chair), Dagmar Reinhardt and Sky Lo Tian Tian
 
 #### Sasada Prize Committee:  
 * Tom Kvan (Chair), Christiane Herr, Atsuko Kaga
