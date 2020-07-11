@@ -23,25 +23,24 @@ title: Officers
   * elections@caadria.org
 * Publication Officer: Kensuke Hotta (*Keio University, Tokyo*)
 * Administrative Officer: Marc Aurel Schnabel (*Victoria University of Wellington, New Zealand*)
-* Award/Scholarship Committee Chair: Rudi Stouffs (*National University of Singapore, Singapore*)
 * Outreach Officer: Jisun Lee (*Yonsei University, South Korea*)
 * Organization Officer: Paulina Neisch (*City University of Hong Kong, Hong Kong*)
 * Communication Officer: Ruwan Fernando (*Griffith University, Australia*)
 
-#### Award/Scholarship Committee:
-* TBA
+#### Award Committee:
+* Sky Lo Tian Tian (Chair), Anastasia Globa, Tane Moleta
 
 #### Paper Selection Committee:  
 * Dominik Holzer (Chair), Walaiporn Nakapan, Anastasia Globa, Immanuel Koh
 
-#### PG Students Consortium:  
-* Christiane M Herr (Chair), Rudi Stouffs & Dagmar Reinhardt 
+#### Post Graduate Students Consortium:  
+* Christiane M Herr (Chair), Dagmar Reinhardt and Sky Tian Tian Lo
 
 #### Sasada Prize Committee:  
 * Tom Kvan (Chair), Christiane Herr, Atsuko Kaga
 
 #### Young CAADRIA Award Committee:  
-* Christiane M Herr (Chair), Andre Brown and Matthias Hank Haeusler
+* Christiane M Herr (Chair), Jin-Kook Lee and Per Stefan Svedberg
 
 ## CAADRIA FELLOWS
 * Tomohiro Fukuda (Osaka University, Japan)
