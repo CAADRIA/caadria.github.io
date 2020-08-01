@@ -29,7 +29,7 @@ My name is Christiane M. Herr, I am currently Associate Professor at the Departm
 <b>Director Workshops and Exhibitions<br>
 CEPT University, Ahmedabad<br></b>
 
-<br><br><br>
+<br><br><br><br>
 With reference to trail email, I would like to nominate myself for the position of Secretary.
 
 I am passionate about mixing technology and crafts. My research and practice has a global design approach which uses computational design, digital fabrication and regional/local in execution using regional craftsmanship. I hold dual positions. Academically I am Director of Workshops and Exhibitions at CEPT University (2014 - now) and principal architect of architectural practice Craft Quest since its inception in 2010. Both are based in Ahmedabad, India. I completed my postgraduate in Architecture from Hyperbody at Technical University, Delft, the Netherlands. 
