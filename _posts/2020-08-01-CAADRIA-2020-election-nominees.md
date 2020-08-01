@@ -6,6 +6,9 @@ tags: [Election, Conference, Nomination]
 ---
 
 ## Nominee of Election for the President
+
+<img src="/img/christianeherr.jpg" width="150" align="left" />
+
 ### Christiane Herr
 Senior Associate Professor
 Department of Architecture
@@ -18,7 +21,8 @@ My name is Christiane M. Herr, I am currently Associate Professor at the Departm
 <br>
 
 ## Nominee of Election for the Secretary
-#### Urvi Sheth
+<img src="/img/urvisheth.jpg" width="150" align="left" />
+### Urvi Sheth
 Director Workshops and Exhibitions
 CEPT University, Ahmedabad
 
@@ -34,6 +38,7 @@ With my experience, managerial skills and leadership qualities, I will make a go
 <br>
 
 ## Nominee of Election for the Treasurer
+<img src="/img/hyoungjunepark.jpg" width="150" align="left" />
 ### Hyoung-June Park, Ph.D. 
 Associate Professor of Design & Computation 
 School of Architecture
@@ -45,6 +50,7 @@ Aloha! my name is Hyoung-June Park. I am a faculty member in the School of Archi
 <br>
 
 ## Nominee of Election for the Membership Officer
+<img src="/img/immanuelkoh.jpg" width="150" align="left" />
 ### Immanuel Koh Chee Beng
 Joint assistant professorship in Architecture & Sustainable Design (ASD) &
 Design& Artificial Intelligence (DAI) at the Singapore University of Technology and Design (SUTD). 
