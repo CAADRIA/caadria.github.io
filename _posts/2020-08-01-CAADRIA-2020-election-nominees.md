@@ -7,10 +7,10 @@ tags: [Election, Conference, Nomination]
 
 ## Nominee of Election for the President
 ### Christiane Herr
-#### Senior Associate Professor
-#### Department of Architecture
-#### Xi'an Jiaotong-Liverpool University
-#### Current President, CAADRIA
+<b> Senior Associate Professor
+Department of Architecture
+Xi'an Jiaotong-Liverpool University
+Current President, CAADRIA </b>
 
 <img src="/img/christianeherr.jpg" width="150" align="left" />
 
