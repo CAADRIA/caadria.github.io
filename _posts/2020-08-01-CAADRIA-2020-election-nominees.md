@@ -23,10 +23,12 @@ My name is Christiane M. Herr, I am currently Associate Professor at the Departm
 
 ## Nominee of Election for the Secretary
 ### Urvi Sheth
-#### Director Workshops and Exhibitions
-#### CEPT University, Ahmedabad
 
-<img src="/img/urvisheth.jpg" width="150" align="left" />
+<img src="/img/urvisheth.jpg" width="150" align="right" />
+
+<b>Director Workshops and Exhibitions<br>
+CEPT University, Ahmedabad<br></b>
+
 
 With reference to trail email, I would like to nominate myself for the position of Secretary.
 
@@ -41,22 +43,24 @@ With my experience, managerial skills and leadership qualities, I will make a go
 
 ## Nominee of Election for the Treasurer
 ### Hyoung-June Park, Ph.D. 
-#### Associate Professor of Design & Computation 
-#### School of Architecture
-#### University of Hawaii at Manoa
+<img src="/img/hyoungjunepark.jpg" width="150" align="right" />
+<b> Associate Professor of Design & Computation <br>
+School of Architecture<br>
+University of Hawaii at Manoa<br></b>
 
-<img src="/img/hyoungjunepark.jpg" width="150" align="left" />
+
 
 Aloha! my name is Hyoung-June Park. I am a faculty member in the School of Architecture at University of Hawaii at Manoa. Since2001, already two decades ago, I have participated in CAADRIA.Time flies like an arrow. Through this time, I believe CAADRIA hasbeen developed in breadth and depth not only in architecture butalso other design areas. Even though CAADRIA is going through the difficulties caused by Covid 19, it will come back to a normalstatus and flourish again soon. In this context, next two yearswill be a critical period for CAADRIA to recover and grow again. It will be my pleasure to serve for CAADRIA as a treasurer duringthis period......"Destitutus ventis, remos adhibe" (If the windwill not serve, take to the oars.)... Mahalo!
 <br>
 <br>
 
 ## Nominee of Election for the Membership Officer
-### Immanuel Koh Chee Beng
-#### Joint assistant professorship in Architecture & Sustainable Design (ASD) &
-#### Design& Artificial Intelligence (DAI) at the Singapore University of Technology and Design (SUTD). 
+### Immanuel Koh Chee Beng 
+<img src="/img/immanuelkoh.jpg" width="150" align="right" />
+<b>Joint assistant professorship in Architecture & Sustainable Design (ASD) &<br>
+Design& Artificial Intelligence (DAI) at the Singapore University of Technology and Design (SUTD)<br></b>
 
-<img src="/img/immanuelkoh.jpg" width="150" align="left" />
+
 
 I currently hold a joint assistant professorship in Architecture & Sustainable Design (ASD) and Design& Artificial Intelligence (DAI) at the Singapore University of Technology and Design (SUTD). After graduating from the Architectural Association (AA) in London, I moved on to complete my PhD at École polytechnique fédérale de Lausanne (EPFL) in Switzerland,doing transdisciplinary research work between the School of Computer Sciences and the Institute of Architecture. In addition to my regular  presentation of papers at past CAADRIAs, I have also served in several other roles, namely workshop leader, electioncommittee member, session chair and PSC member. From these experiences, I have not only gained some familiarity with the inner workings of the association, but also identified the constant need to inject creativity and energy to sustain its intellect impactwithin academia and industry. I hope that, by taking on the role of Membership Officer, I could play a more significant role in positively shaping the future of CAADRIA.
 
