@@ -51,6 +51,7 @@ University of Hawaii at Manoa<br></b>
 <br><br><br>
 
 Aloha! my name is Hyoung-June Park. I am a faculty member in the School of Architecture at University of Hawaii at Manoa. Since2001, already two decades ago, I have participated in CAADRIA.Time flies like an arrow. Through this time, I believe CAADRIA hasbeen developed in breadth and depth not only in architecture butalso other design areas. Even though CAADRIA is going through the difficulties caused by Covid 19, it will come back to a normalstatus and flourish again soon. In this context, next two yearswill be a critical period for CAADRIA to recover and grow again. It will be my pleasure to serve for CAADRIA as a treasurer duringthis period......"Destitutus ventis, remos adhibe" (If the windwill not serve, take to the oars.)... Mahalo!
+
 <br>
 <br>
 
