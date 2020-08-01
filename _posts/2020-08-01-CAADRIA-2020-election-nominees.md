@@ -5,17 +5,17 @@ date: 2020-08-01
 tags: [Election, Conference, Nomination]
 ---
 
-# President
+## President
 Christiane Herr
 
 
-# Secretary
+## Secretary
 Urvi Sheth
 
-# Treasurer
+## Treasurer
 Hyoung-June Park, Ph.D.
 
-# Membership Officer
+## Membership Officer
 Immanuel Koh Chee Beng
 
 * Submission deadline: July 18th 2020
