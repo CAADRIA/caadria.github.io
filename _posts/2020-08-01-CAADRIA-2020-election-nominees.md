@@ -8,7 +8,7 @@ tags: [Election, Conference, Nomination]
 ## Nominee of Election for the President
 ### Christiane Herr
 
-<img src="/img/christianeherr.jpg" width="150" align="left" />
+<img src="/img/christianeherr.jpg" width="150" align="right" />
 
 <b> Senior Associate Professor<br>
 Department of Architecture<br>
