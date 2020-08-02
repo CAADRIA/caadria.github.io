@@ -56,7 +56,7 @@ Aloha! my name is Hyoung-June Park. I am a faculty member in the School of Archi
 <br>
 
 ## Nominee of Election for the Membership Officer
-### Immanuel Koh Chee Beng 
+### Immanuel Koh 
 <img src="/img/immanuelkoh.jpg" width="150" align="right" />
 <b>Joint assistant professorship in Architecture & Sustainable Design (ASD) &<br>
 Design& Artificial Intelligence (DAI) at the Singapore University of Technology and Design (SUTD)<br></b>
