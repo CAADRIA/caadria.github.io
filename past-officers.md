@@ -44,6 +44,20 @@ title: Past Officers
 * Christiane M. Herr
 * Suleiman Alhadidi
 
+### Administrative Officer
+
+### Communication Officer
+
+### Elections Officer
+
+### Outreach Officer
+
+### Organisation Officer
+
+### Publication Officer
+
+### Web Master
+
 ### Conference Committee Chair/members
 
 #### 2017-18
