@@ -9,7 +9,7 @@ The Sasada Prize carries no monetary award. From 2019, the annual Sasada Prize w
 
 # Sasada Prize Recipients
 
-### 2020. Professor Ji-Hyun Lee
+### 2020. Professor DO Yi-luen
 <img src="/img/ellenyiluendo.jpg" width="150" align="right" />
 Professor Ellen Do Yi-luen is an enthusiastic djembe player who has dedicated her career to researching computational support of creativity. Her early work focussed on sketching with the development of the ‘electronic cocktail napkin’, since then her work continues in the use of digital tools for unstructured drawings and their interpretation, in tangible and embedded interactions and, more recently, computing for health and wellness. Today, she is Professor at the University of Colorado Boulder and Director, ATLAS Partnerships & Innovation. She earned her bachelor's degree from National Cheng Kung University in Taiwan, a Master of Design Studies from the Harvard Graduate School of Design and her doctorate in Design Computing from Georgia Institute of Technology. She has served on the faculties of University of Washington, Carnegie Mellon University and Georgia Institute of Technology. From 2013 to 2016, she co-directed the Keio-NUS CUTE Center in Singapore, a research unit investigating Connected Ubiquitous Technology for Embodiments.
 
