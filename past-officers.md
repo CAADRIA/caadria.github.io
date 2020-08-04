@@ -60,6 +60,15 @@ title: Past Officers
 
 ### Conference Committee Chair/members
 
+#### 2018-19
+* Award/Scholarship Committee Chair:
+  * Young CAADRIA Award Committee: 
+  * Best Paper Award Committee: 
+  * Best Presentation Award Committee: 
+* Paper Selection Committee: 
+* PG Students Consortium: 
+* Sasada Award Committee: 
+
 #### 2017-18
 * Award/Scholarship Committee Chair: Rudi Stouffs
   * Young CAADRIA Award Committee: Hyunsoo Lee, Tomohiro Fukuda, Weiguo Xu, Rudi Stouffs
