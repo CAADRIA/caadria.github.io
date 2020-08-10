@@ -28,7 +28,7 @@ title: Officers
 * Communication Officer: Chitraj Bissoonauth (*Xi'an Jiaotong-Liverpool University, China*)
 
 #### Scholarships & Award Committee:
-* Sky Lo Tian Tian (Chair), Anastasia Globa, Tane Moleta
+* Sky Lo Tian Tian (Chair)
 
 #### Paper Selection Committee:  
 * Dominik Holzer (Chair), Walaiporn Nakapan, Anastasia Globa, Immanuel Koh
