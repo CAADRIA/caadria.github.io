@@ -11,27 +11,29 @@ title: Officers
 
 * President: Christiane M Herr (*Xi'an Jiaotong-Liverpool University, China*)
   * president@caadria.org
-* Secretary: Walaiporn Nakapan (*Rangsit University, Thailand*)
+* Secretary: Urvi Sheth (*CEPT University, India*)
   * secretary@caadria.org
-* Treasurer: Wei Xin Huang (*Tsinghua University, China*)
+* Treasurer: Hyoung-June Park (*University of Hawaii at Manoa, USA*)
   * treasurer@caadria.org
-* Membership Officer: Sky Lo Tian Tian (*Harbin Institute of Technology (ShenZhen), China*)
+* Membership Officer: Immanuel Koh (*Singapore University of Technology and Design, Singapore*)
   * membership@caadria.org
 * Web Master: Kyung Hoon Hyun (*Hanyang University, Korea*) 
   * webmaster@caadria.org
 * Election Officer: Hyunsoo Lee (*Yonsei University, Korea*)
   * elections@caadria.org
-* Publication Officer: Kensuke Hotta (*Keio University, Tokyo*)
+* Publication Officer: Dan Luo (*University of Queensland, Australia*)
 * Administrative Officer: Marc Aurel Schnabel (*Victoria University of Wellington, New Zealand*)
-* Outreach Officer: Jisun Lee (*Yonsei University, South Korea*)
+* Outreach Officer: Nic Bao (*Royal Melbourne Institute of Technology, Australia*)
 * Organization Officer: Paulina Neisch (*City University of Hong Kong, Hong Kong*)
-* Communication Officer: Ruwan Fernando (*Griffith University, Australia*)
+* Communication Officer: Chitraj Bissoonauth (*Xi'an Jiaotong-Liverpool University, China*)
 
-#### Award Committee:
+#### Scholarships & Award Committee:
 * Sky Lo Tian Tian (Chair), Anastasia Globa, Tane Moleta
 
 #### Paper Selection Committee:  
 * Dominik Holzer (Chair), Walaiporn Nakapan, Anastasia Globa, Immanuel Koh
+Anastasia Globa (Chair), Adam Fingrut, Jeroen van Ameijde, Sky Lo Tian Tian, Nayeon Kim
+
 
 #### Post Graduate Students Consortium:  
 * Christiane M Herr (Chair), Dagmar Reinhardt and Sky Lo Tian Tian
