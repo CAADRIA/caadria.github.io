@@ -31,8 +31,7 @@ title: Officers
 * Sky Lo Tian Tian (Chair)
 
 #### Paper Selection Committee:  
-* Dominik Holzer (Chair), Walaiporn Nakapan, Anastasia Globa, Immanuel Koh
-Anastasia Globa (Chair), Adam Fingrut, Jeroen van Ameijde, Sky Lo Tian Tian, Nayeon Kim
+* Anastasia Globa (Chair), Adam Fingrut, Jeroen van Ameijde, Sky Lo Tian Tian, Nayeon Kim
 
 
 #### Post Graduate Students Consortium:  
