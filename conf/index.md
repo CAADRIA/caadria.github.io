@@ -67,7 +67,7 @@ Submission details, style and format are listed at the Submission page. Publicat
 
 * Poster Submission: TBD
 * Notification of Poster Acceptance: Rolling
-* For poster submission, please contact: caadria2020@gmail.com
+* For poster submission, please contact: caadria2021@cuhk.edu.hk
 <br />
 
 
