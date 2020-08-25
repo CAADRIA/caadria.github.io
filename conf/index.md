@@ -7,7 +7,7 @@ subtitle: The 26th Annual Conference of the Association for Computer-Aided Archi
 <div align="center">
 <a href="http://www.caadria2021.org">www.caadria2021.org</a><br />
 <br />
-29 (Monday) March - 1 (Thusday) April, 2021 <br />
+29 (Monday) March - 1 (Thursday) April, 2021 <br />
 Hong Kong <br />
 <br />
 </div>
