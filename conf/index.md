@@ -1,26 +1,28 @@
 ---
 layout: page
-title: RE:ANTHROPOCENE - Design in the Age of Humans
-subtitle: The 25th Annual Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2020)
+title: PROJECTIONS
+subtitle: The 26th Annual Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2021)
 ---
 
 <div align="center">
-<a href="http://www.caadria2020.org">www.caadria2020.org</a><br />
+<a href="http://www.caadria2021.org">www.caadria2021.org</a><br />
 <br />
-5 (Wednesday) - 8 (Saturday) August, 2020 <br />
-Chulalongkorn University, Faculty of Architecture, Thailand <br />
+29 (Monday) March - 1 (Thusday) April, 2021 <br />
+Hong Kong <br />
 <br />
 </div>
 
-* Abstracts due by 22th Sep 2019
-* Full Papers due by 13th Dec 2019
+* Abstracts due by 27th Sep 2020
+* Full Papers due by 29th Nov 2020
 
 
-What if we are already in the Anthropocene epoch where the function of the Earth system is being impacted by human activities? What if our actions indeed are significant enough to have a critical force on the Earth as a system? The term Anthropocene (the Age of Humans) has gained increasing recognition as a description of a crucial geological stage of our planet as we face the consequences of our own events on the earth’s ecosystem. While we are beginning to address the predominant challenges of sustainability and ecology, the environments we built have also shaped our behaviours.
+In a time of unprecedented global challenges, the need for researchers and designers to reflect on our changing society has rarely been more obvious. As the pandemic highlights the precariousness of our fragile climate, limited resources and unequitable urban areas, there is a new mandate for research and innovation, searching for new technology-enabled processes that positively impact our profession, communities, and planet.
 
-To celebrate CAADRIA’s 25thAnniversary, we challenge ourselves with these questions, asking what we want our future to look like, in the next 25, 50, or even 100 years? If human creations are substantial enough to start a new geological epoch, what does this imply for our explorations of the realm of computational design, and how will advanced technologies shape our futures?
+The advancement and adoption of new technologies in all aspects of our society have started to profoundly change the nature of architectural design and materialisation processes, bridging between the digital and the physical worlds. Fluid communication allows for unprecedented new levels of complexity, control and feedback between design and the built environment. Large quantities of information allow us to forecast how architectural and urban structures perform over time, against a detailed understanding of their contexts.
 
-With the theme RE: Anthropocene, we challenge ourselves to REgard this new geological age as the main meaningful site for exploration into the future, REthink what our planet could become, REvisit our actions and behaviours to foster the REsponsibilities for the planet existence, and perhaps & importantly, REspond to whatever magnitudes happen to the built-environments and other planetary beings.
+“PROJECTIONS” focuses on the implementation of our work, asking us to reflect upon the different ways innovation will impact the future of our industry. We will invite conversations and debate around the status of computational research and design, reflecting on recent challenges and opportunities, and how these translate into futures that are different from what was previously predicted. As we assess our projects within the context of our shared realities, we position our work as prototypes for alternative futures in our collective field.
+
+The 2021 annual conference for Computer-Aided Architectural Design Research in Asia (CAADRIA), will bring together academics, researchers and practitioners involved in innovating, disrupting or revolutionising processes for the conceptualisation, evaluation and materialisation of the built environment. By inviting participants from universities and practices throughout Asia, we aim to create a platform for shared moments of inspiration, reflection, and projection.
 
 
 <div align="center">
@@ -36,34 +38,34 @@ __Papers__: Full papers will be subject to a double-blind peer review of full-le
 
 Submission details, style and format are listed at the Submission page. Publication of the paper will be subject to review acceptance, to compliance with submission deadlines and formatting guidelines, and to the payment of the conference registration fee. The conference must be attended in person.
 
-* Submission via <a href="http://caadria.org/openconf/openconf.php">Submission Page</a>
-* Abstract Submission Deadline: 22 September 2019
-* Full Paper Submission Deadline: 13 December 2019
-* Notification of Full Paper Acceptance: 15 January 2020
-* Camera-ready Full Paper Submission: 5 April 2020
+* Submission via Submission Page(TBD)
+* Abstract Submission Deadline: 27 September 2020
+* Full Paper Submission Deadline: 29 November 2020
+* Notification of Full Paper Acceptance: 18 January 2021
+* Camera-ready Full Paper Submission: TBD
 <br />
 
 ## Young CAADRIA Award
 
-* Young CAADRIA Award Submission: 10 April 2020
+* Young CAADRIA Award Submission: TBD
 <br />
 
 ## Postgraduate Student Consortium
 
-* Postgraduate Student Consortium Submission: 15 April 2020
+* Postgraduate Student Consortium Submission: TBD
 * For young researchers currently involved in postgraduate studies; submission of work-in-progress research papers to: psc@caadria.org
 <br />
 
 ## Pre-Conference Workshops
 
-* CAADRIA2020 Pre-Conference Workshop Proposals: 22 April 2020
-* CAADRIA2020 Pre-Conference Workshop Acceptance: 29 April 2020
+* CAADRIA2020 Pre-Conference Workshop Proposals: TBD
+* CAADRIA2020 Pre-Conference Workshop Acceptance: TBD
 * For workshop proposal submission, please contact: caadria2020@gmail.com
 <br />
 
 ## Poster Submissions
 
-* Poster Submission: 5 April 2020
+* Poster Submission: TBD
 * Notification of Poster Acceptance: Rolling
 * For poster submission, please contact: caadria2020@gmail.com
 <br />
@@ -73,10 +75,7 @@ Submission details, style and format are listed at the Submission page. Publicat
 ----
 ### Contact
 
-INDA International Program in Design and Architecture <br />
-Room 409 Faculty of Architecture Chulalongkorn University <br />
-Phayathai Rd, Pathum Wan, Pathum Wan District <br />
-Bangkok 10330 <br />
-Thailand <br />
-P: +662 218 4330 <br />
-E: caadria2020@gmail.com <br />
+Kristof Crolla (University of Hong Kong)
+Adam Fingrut (Chinese University of Hong Kong)
+Jeroen van Ameijde (Chinese University of Hong Kong)
+E: caadria2021@cuhk.edu.hk <br />
