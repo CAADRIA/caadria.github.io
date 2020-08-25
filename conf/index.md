@@ -8,7 +8,7 @@ subtitle: The 26th Annual Conference of the Association for Computer-Aided Archi
 <a href="http://www.caadria2021.org">www.caadria2021.org</a><br />
 <br />
 29 (Monday) March - 1 (Thursday) April, 2021 <br />
-Hong Kong <br />
+School of Architecture, the Chinese University of Hong Kong, Hong Kong. <br />
 <br />
 </div>
 
