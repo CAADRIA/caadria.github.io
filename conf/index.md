@@ -75,7 +75,7 @@ Submission details, style and format are listed at the Submission page. Publicat
 ----
 ### Contact
 
-Kristof Crolla (University of Hong Kong)
-Adam Fingrut (Chinese University of Hong Kong)
-Jeroen van Ameijde (Chinese University of Hong Kong)
+Kristof Crolla (University of Hong Kong)<br />
+Adam Fingrut (Chinese University of Hong Kong)<br />
+Jeroen van Ameijde (Chinese University of Hong Kong)<br />
 E: caadria2021@cuhk.edu.hk <br />
