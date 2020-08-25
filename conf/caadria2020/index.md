@@ -4,7 +4,7 @@ title: CAADRIA 2020
 subtitle: The 25th Conference on Computer-Aided Architectural Design Research in Asia. 5-6 August, 2020. Bangkok, Thailand.
 ---
 
-# Intelligent & Informed
+# RE:Anthropocene
 
 <img src="./caadria_cover_2020.jpg" width="250" align="right" />
 
