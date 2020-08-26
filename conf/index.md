@@ -60,7 +60,7 @@ Submission details, style and format are listed at the Submission page. Publicat
 
 * CAADRIA2020 Pre-Conference Workshop Proposals: TBD
 * CAADRIA2020 Pre-Conference Workshop Acceptance: TBD
-* For workshop proposal submission, please contact: caadria2020@gmail.com
+* For workshop proposal submission, please contact: caadria2021@cuhk.edu.hk
 <br />
 
 ## Poster Submissions
