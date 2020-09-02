@@ -38,11 +38,12 @@ __Papers__: Full papers will be subject to a double-blind peer review of full-le
 
 Submission details, style and format are listed at the Submission page. Publication of the paper will be subject to review acceptance, to compliance with submission deadlines and formatting guidelines, and to the payment of the conference registration fee. The conference must be attended in person.
 
-* Submission via <a href="http://caadria.org/openconf/openconf.php">Submission Page</a>
 * Abstract Submission Deadline: 27 September 2020
 * Full Paper Submission Deadline: 29 November 2020
 * Notification of Full Paper Acceptance: 18 January 2021
 * Camera-ready Full Paper Submission: TBD
+<br />
+* Abstraction Submission via <a href="http://caadria.org/openconf/openconf.php">Submission Page</a>
 <br />
 Enquiries regarding paper submissions: psc@caadria.org
 <br />
