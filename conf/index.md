@@ -44,7 +44,8 @@ Submission details, style and format are listed at the Submission page. Publicat
 * Notification of Full Paper Acceptance: 18 January 2021
 * Camera-ready Full Paper Submission: TBD
 <br />
-
+Enquiries regarding paper submissions: psc@caadria.org
+<br />
 ## Young CAADRIA Award
 
 * Young CAADRIA Award Submission: TBD
