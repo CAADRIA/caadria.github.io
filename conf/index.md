@@ -43,7 +43,9 @@ Submission details, style and format are listed at the Submission page. Publicat
 * Notification of Full Paper Acceptance: 18 January 2021
 * Camera-ready Full Paper Submission: TBD
 <br />
+<br />
 * Abstraction Submission via <a href="http://caadria.org/openconf/openconf.php">Submission Page</a>
+<br />
 <br />
 Enquiries regarding paper submissions: psc@caadria.org
 <br />
