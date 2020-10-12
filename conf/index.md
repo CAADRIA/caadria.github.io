@@ -39,9 +39,10 @@ __Papers__: Full papers will be subject to a double-blind peer review of full-le
 Submission details, style and format are listed at the Submission page. Publication of the paper will be subject to review acceptance, to compliance with submission deadlines and formatting guidelines, and to the payment of the conference registration fee. The conference must be attended in person.
 
 * Abstract Submission Deadline: 27 September 2020
+* Notification of Abstract Acceptance: 11 October 2020
 * Full Paper Submission Deadline: 29 November 2020
 * Notification of Full Paper Acceptance: 18 January 2021
-* Camera-ready Full Paper Submission: TBD
+* Camera-ready Full Paper Submission: 7 February 2021
 <br />
 <br />
 * Abstraction Submission via <a href="http://caadria.org/openconf/openconf.php">Submission Page</a>
@@ -51,30 +52,52 @@ Enquiries regarding paper submissions: psc@caadria.org
 <br />
 <br />
 
+## Poster Submissions
+
+Posters offer researchers and practitioners an opportunity to present work in progress or completed projects in a visual format. Accepted posters will be exhibited during the conference via an online exhibition and as printed format at the in-person venue in Hong Kong.
+Projects that involve innovative use of computational processes in architecture and urban design, and innovative processes in manufacturing and construction are encouraged to be submitted. The CAADRIA 2021 conference hosts welcome in particular innovative projects that are in planning or have been recently completed in Hong Kong, the Greater Bay Area or South East Asia.
+The poster format is A1 portrait, the content should consist of maximum 10 images, a text description of 500 words, and image captions. Acceptance will be subject to a review by the conference organising committee. 
+
+* Submission of Posters: 1 February 2021
+* Notification of Poster Acceptance: 1 March 2021
+* For submissions, visit the CAADRIA 2021 website.
+<br />
+
 ## Young CAADRIA Award
 
-* Young CAADRIA Award Submission: TBD
+Young CAADRIA Awards are funded by CAADRIA, and include sponsorship of conference registration fees and a certificate presented during the conference. Applications are open to full or part-time registered students (PhD-, PG-, or UG-students), applications can be made after having received a notification of full paper acceptance. The awards allocation will be made by a committee jointly formed by CAADRIA, the Paper Selection Committee, and the Conference Host and will be based on the merit the paper, contribution and relevance to CAADRIA and demonstrated depth of research interest.
+
+* Young CAADRIA Award application deadline: 24 January 2021
+* Send your submission inquiries to: psc@caadria.org 
+* https://www.caadria.org/awards/#young-caadria-award 
 <br />
 
 ## Postgraduate Student Consortium
 
-* Postgraduate Student Consortium Submission: TBD
-* For young researchers currently involved in postgraduate studies; submission of work-in-progress research papers to: psc@caadria.org
-<br />
+The Postgraduate Student Consortium provides a supportive setting for feedback on your current research and guidance on future research directions. It offers you comments and fresh perspectives on your work from international academics and students outside your institution. It promotes the development of a supportive community of scholars and a spirit of collaborative research. The Postgraduate Student Consortium is an excellent opportunity to network with colleagues of similar background or interests and from the international community and to explore potential external examiners. Your supervisors don’t have to attend the consortium, but they are invited to join.
+
+The consortium is different from a paper presentation since it addresses your research process and offers you advice on your overall study and progress and explores in more detail your thesis. You present your ongoing research work and results to date. You have the chance to discuss your research in an informal session with peers and experienced academics from your field.
+Applications should include:
+
+- An extended abstract or full paper describing work in process and key questions addressed.
+- A one-page curriculum vitae (attached to the end of the paper).
+
+* Submission Deadline: 15 February 2021 
+* All inquiries & submission via email to: caadria.pgsc@gmail.com 
+
 
 ## Pre-Conference Workshops
 
-* CAADRIA2020 Pre-Conference Workshop Proposals: TBD
-* CAADRIA2020 Pre-Conference Workshop Acceptance: TBD
-* For workshop proposal submission, please contact: caadria2021@cuhk.edu.hk
-<br />
+As part of the conference, CAADRIA will offer a series of exciting workshops around a range of cutting-edge topics and methodologies. Led by expert instructors from around the world, the workshops are aimed at students, researchers and young professionals interested in extending their knowledge and skills in the field of computational techniques in architecture and urbanism. The workshops will be taught online, or in combination with physical infrastructure and equipment located in Hong Kong where possible and relevant.
 
-## Poster Submissions
+We are seeking applications from interested parties to teach a workshop. In relation to the theme of the conference, workshops should not focus exclusively on a particular software process, but speculate on the potential applications in the future built environment. There is no remuneration for workshop tutors, but the workshops and outcomes will be featured in the conference, exhibition and publications.
 
-* Poster Submission: TBD
-* Notification of Poster Acceptance: Rolling
-* For poster submission, please contact: caadria2021@cuhk.edu.hk
-<br />
+Proposals should consist of a 6-10-page PDF document outlining the conceptual framework, tools and objectives of the workshop, as well as instructors’ CV’s and relevant previous work examples.
+
+* Workshop Proposal Submission:       	1 February 2021
+* Workshop Acceptance Notification:  	15 February 2021
+* For submissions, visit the CAADRIA 2021 website.
+
 
 
 
