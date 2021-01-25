@@ -31,7 +31,7 @@ Young CAADRIA Awards are funded by CAADRIA, given by a committee jointly by CAAD
    * Applicability to the wider architectural research
    * Typically only one student per university per year.
 
-Application materials: your CV, list of publications, your accepted paper and other supporting documents (see point 3 above)..
+Application materials: your CV, list of publications, your accepted paper and other supporting documents (see point 3 above).
 
 &rarr; [Young CAADRIA Award Recipients](award-recipients.md#young-caadria-award)
 
