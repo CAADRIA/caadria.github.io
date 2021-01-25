@@ -18,9 +18,9 @@ title: Awards
 
 Young CAADRIA Awards are funded by CAADRIA, given by a committee jointly by CAADRIA, the Paper Selection Committee, and the Conference Host and will be decided by them after the acceptance of papers. Awards will be applied to conference registration fees and are not transferable (e.g. awardees can not assign them to co-authors). If an awardee does not attend the conference no award will be given.
 
-1. Open to full or part time registered students (Ph.D. or Masters or undergraduate)
+1. Open to full or part time currently registered students (Ph.D. or Masters or undergraduate)
 1. Chosen before conference, winners exempt from paying registration
-1. Student applies for award if the paper is selected for inclusion into the conference and is awarded on the basis of the CV provided.
+1. Student applies for award if the paper is selected for inclusion into the conference and is awarded on the basis of the CV and other supporting documents provided. These can include a maximum of 5 additional documents, for example previous publications that demonstrate research excellence, awards, etc.
 1. Chosen on merit of abstract, contribution and relevance to CAADRIA and demonstrated depth of research interest
 1. Can win the award more than once, chosen on merit of work
 1. Criteria:
@@ -31,7 +31,7 @@ Young CAADRIA Awards are funded by CAADRIA, given by a committee jointly by CAAD
    * Applicability to the wider architectural research
    * Typically only one student per university per year.
 
-Application materials: your CV, list of publications, your accepted paper and other supporting documents.
+Application materials: your CV, list of publications, your accepted paper and other supporting documents (see point 3 above)..
 
 &rarr; [Young CAADRIA Award Recipients](award-recipients.md#young-caadria-award)
 
