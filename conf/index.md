@@ -38,10 +38,10 @@ __Papers__: Full papers will be subject to a double-blind peer review of full-le
 
 Submission details, style and format are listed at the Submission page. Publication of the paper will be subject to review acceptance, to compliance with submission deadlines and formatting guidelines, and to the payment of the conference registration fee. The conference must be attended in person.
 
-* Abstract Submission Deadline: 27 September 2020
-* Notification of Abstract Acceptance: 11 October 2020
-* Full Paper Submission Deadline: 29 November 2020
-* Notification of Full Paper Acceptance: 18 January 2021
+* Abstract Submission Deadline: 4 October 2020
+* Notification of Abstract Acceptance: 20 October 2020
+* Full Paper Submission Deadline: 13 December 2020
+* Notification of Full Paper Acceptance: 20 January 2021
 * Camera-ready Full Paper Submission: 7 February 2021
 <br />
 <br />
@@ -58,8 +58,8 @@ Posters offer researchers and practitioners an opportunity to present work in pr
 Projects that involve innovative use of computational processes in architecture and urban design, and innovative processes in manufacturing and construction are encouraged to be submitted. The CAADRIA 2021 conference hosts welcome in particular innovative projects that are in planning or have been recently completed in Hong Kong, the Greater Bay Area or South East Asia.
 The poster format is A1 portrait, the content should consist of maximum 10 images, a text description of 500 words, and image captions. Acceptance will be subject to a review by the conference organising committee. 
 
-* Submission of Posters: 1 February 2021
-* Notification of Poster Acceptance: 1 March 2021
+* Submission of Posters: 7 March 2021
+* Notification of Poster Acceptance: 12 March 2021
 * For submissions, visit the CAADRIA 2021 website.
 <br />
 
@@ -67,7 +67,7 @@ The poster format is A1 portrait, the content should consist of maximum 10 image
 
 Young CAADRIA Awards are funded by CAADRIA, and include sponsorship of conference registration fees and a certificate presented during the conference. Applications are open to full or part-time registered students (PhD-, PG-, or UG-students), applications can be made after having received a notification of full paper acceptance. The awards allocation will be made by a committee jointly formed by CAADRIA, the Paper Selection Committee, and the Conference Host and will be based on the merit the paper, contribution and relevance to CAADRIA and demonstrated depth of research interest.
 
-* Young CAADRIA Award application deadline: 24 January 2021
+* Young CAADRIA Award application deadline: 28 January 2021
 * Send your submission inquiries to: psc@caadria.org 
 * https://www.caadria.org/awards/#young-caadria-award 
 <br />
