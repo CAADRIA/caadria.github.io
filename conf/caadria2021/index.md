@@ -6,7 +6,7 @@ subtitle: The 26th Conference on Computer-Aided Architectural Design Research in
 
 # PROJECTIONS
 
-<img src="./caadria_cover_2020.jpg" width="250" align="right" />
+<img src="./caadria_cover_2021.jpg" width="250" align="right" />
 
 ### Conference Organisation
 School of Architecture, The Chinese University of Hong Kong
