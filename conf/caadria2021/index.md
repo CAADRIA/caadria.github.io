@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CAADRIA 2021
-subtitle: The 26th Conference on Computer-Aided Architectural Design Research in Asia. 5-6 August, 2020. Bangkok, Thailand.
+subtitle: The 26th Conference on Computer-Aided Architectural Design Research in Asia. 29 March - 1 April, 2021. Hong Kong.
 ---
 
 # PROJECTIONS
