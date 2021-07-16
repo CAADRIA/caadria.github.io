@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PROJECTIONS
+title: POST CARBON
 subtitle: The 26th Annual Conference of the Association for Computer-Aided Architectural Design Research in Asia (CAADRIA 2022)
 ---
 
